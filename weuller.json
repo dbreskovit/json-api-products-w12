@@ -1,0 +1,559 @@
+// Chair 80-95
+
+[
+    {
+        "id": 80,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 81,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 82,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 83 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 84 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id":85,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 86 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 87 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 88 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 89 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 90 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 91 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 92 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 93 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    },
+    {
+        "id": 94 ,
+        "sku": "a",
+        "category": "Chair",
+        "tags": [
+            "Sofa",
+            "Chair",
+            "Home"
+        ],
+        "normalPrice": 250,
+        "salePrice": 175,
+        "discountPercentage": 0.3,
+        "description": {
+            "short": "shortdescription",
+            "long": "longdescription"
+        },
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ff0000"
+            }
+        ],
+        "sizes": [
+            "L",
+            "XL",
+            "XS"
+        ],
+        "rating": 4.5,
+        "images": {
+            "mainImage": "mainImage",
+            "gallery": [
+                "image1",
+                "image2",
+                "image3"
+            ]
+        }
+    }
+]

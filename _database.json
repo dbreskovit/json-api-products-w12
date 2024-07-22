@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "sku": "a",
+            "category": "a",
+            "tags": [
+                "Sofa",
+                "Chair",
+                "Home"
+            ],
+            "normalPrice": 250,
+            "salePrice": 175,
+            "discountPercentage": 0.3,
+            "new": false, 
+            "description": {
+                "short": "shortdescription",
+                "long": "longdescription"
+            },
+            "colors": [
+                {
+                    "name": "red",
+                    "hex": "#ff0000"
+                }
+            ],
+            "sizes": [
+                "L",
+                "XL",
+                "XS"
+            ],
+            "rating": 4.5,
+            "images": {
+                "mainImage": "mainImage",
+                "gallery": [
+                    "image1",
+                    "image2",
+                    "image3"
+                ]
+            }
+        }
+    ]
+}
+
+
+
+
