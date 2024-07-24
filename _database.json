@@ -1,416 +1,325 @@
 {
     "products": [
         {
-            "id": 1,
-            "sku": "1156215",
-            "title": "Rack Fortaleza Freijó 218 cm",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Rack-Fortaleza",
-                "Sala"
-            ],
-            "normalPrice": 1.729,
-            "salePrice": 890.92,
-            "discountPercentage": 0.48,
-            "new": true,
-            "description": {
-                "short": "Com formato retilíneo e inspirado no design contemporâneo, o Rack Fortaleza é uma ótima escolha para você decorar com estilo e praticidade a sala de estar",
-                "long": ", o home cinema ou o quarto. Amplo, ele acomoda sua TV de até 75 polegadas, além de receber livros, adornos, aparelhos eletrônicos e outros objetos do dia a dia - isso graças aos nichos decorativos e ao espaço interno. Já o acabamento amadeirado deixa a decoração elegante e sofisticada.  Perfeito, não é?"
-            },
-            "colors": [
-                {
-                    "name": "Marrom",
-                    "hex": "#800000"
-                }
-            ],
-            "sizes": [
-                "G",
-                "M"
-            ],
-            "rating": 5,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265144021798617170/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6075-3030911-1.png?ex=66a070b0&is=669f1f30&hm=7c7cccc3118b4c5a0221bac943cdf8b07ad319b165414f8cc9ca373cfb9e8b60&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265144022201012314/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6076-3030911-2.png?ex=66a070b0&is=669f1f30&hm=ffd3876124ef6b27604744a0be4b125bb291e1535a8245fa4a1f71b7d07eeaa0&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265144022448738356/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6077-3030911-3.png?ex=66a070b0&is=669f1f30&hm=ced152b3216620367ed21b8e5f09b2f9642691ec4310c39bd4563997b7c08e87&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265144022796861450/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6082-3030911-7.png?ex=66a070b0&is=669f1f30&hm=f5bcb1486ac3e169cf8b49f60a250c3c356e6d1711cf498b08944eb680b5188c&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265144023715287070/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6083-3030911-8.png?ex=66a070b0&is=669f1f30&hm=195f063d383fb25e3145797ff30784cee96f439080c8caa063d7dfc697515d49&"
-                ]
-            }
-        },
-        {
-            "id": 2,
-            "sku": "760330",
-            "title": "Rack para TV até 75 Polegadas Madesa Reims 2 Portas 1 Gaveta - Branco",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Rack-Fortaleza",
-                "Sala"
-            ],
-            "normalPrice": 1079.99,
-            "salePrice": 399.59,
-            "discountPercentage": 0.63,
-            "new": true,
-            "description": {
-                "short": "Se você quer renovar a sua sala de estar, o Rack Madesa Reims Branco é a escolha certa para deixar sua casa ainda mais bonita e organizada!",
-                "long": "O móvel possui um design super moderno, com destaque para seus pés de madeira maciça na cor marrom que, além de proporcionarem uma ótima sustentação, trazem um charme a mais para qualquer ambiente. O Rack Madesa Reims é ideal para TVs de até 75 polegadas e tem espaço de sobra! Com duas portas laterais e uma gaveta com corrediças metálicas, é perfeito para armazenar e organizar aparelhos eletrônicos, livros, objetos decorativos, DVDs e muito mais."
-            },
-            "colors": [
-                {
-                    "name": "Branco",
-                    "hex": "#ffffff"
-                }
-            ],
-            "sizes": [
-                "G",
-                "M"
-            ],
-            "rating": 5,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265147195909345300/Madesa-Rack-para-TV-atC3A9-75-Polegadas-Madesa-Reims-2-Portas-1-Gaveta---Branco-4150-662887-1.png?ex=66a073a4&is=669f2224&hm=e824d5caf0dab81ab0ce53094c0d4bbda0be0c6ef117ea45ee70735138ba2656&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265147196198621185/Madesa-Rack-para-TV-atC3A9-75-Polegadas-Madesa-Reims-2-Portas-1-Gaveta---Branco-4151-662887-2.png?ex=66a073a4&is=669f2224&hm=264ed84886e3177b7ada1d41f1fbda09a5d5c1c2aefe14033b5f7ca311502e72&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265147196500873266/Madesa-Rack-para-TV-atC3A9-75-Polegadas-Madesa-Reims-2-Portas-1-Gaveta---Branco-4152-662887-3.png?ex=66a073a4&is=669f2224&hm=187d1024ac3166d6d448a283af1698acca3c10fbf37ca1e47f589822ce6a6feb&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265147197540925551/Madesa-Rack-para-TV-atC3A9-75-Polegadas-Madesa-Reims-2-Portas-1-Gaveta---Branco-4156-662887-4.png?ex=66a073a5&is=669f2225&hm=8a98dc401dbc9cd1a64bcc9be8d28ca722dc505885cf18edefdfdc62064a972b&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265147198325264404/Madesa-Rack-para-TV-atC3A9-75-Polegadas-Madesa-Reims-2-Portas-1-Gaveta---Branco-4159-662887-7.png?ex=66a073a5&is=669f2225&hm=cb6f816ada76ca0d09383525a805b6bbc838866b3e16529b5172a8dcd20ecfed&"
-                ]
-            }
-        },
-        {
-            "id": 3,
-            "sku": "1185191",
-            "title": "Rack para TV até 75 Polegadas Charlotte 2 PT Carvalho e Verde Menta 180 cm",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Carvalho",
-                "Verde Menta",
-                "Sala"
-            ],
-            "normalPrice": 859.99,
-            "salePrice": 503.87,
-            "discountPercentage": 0.41,
-            "new": true,
-            "description": {
-                "short": "A organização ideal começa com o Rack Charlotte e sua estrutura perfeita para facilitar o dia a dia.",
-                "long": "Além de apoiar a televisão no tampo espaçoso, ele também é o cantinho certo para acomodar os eletrônicos e enfeites importantes para o visual do ambiente - isso sem contar que ele mesmo já é uma grande adição para a décor do cômodo, já que tem cor clássica que ajuda a trazer charme e um toque elegante e bem versátil. Por ter bons compartimentos, você pode optar por usá-lo sozinho ou acompanhado de um painel para potencializar a funcionalidade. Assim fica fácil conquistar um lar-style completo e cheio de beleza, né? ;)"
-            },
-            "colors": [
-                {
-                    "name": "Carvalho e Verde Menta",
-                    "hex": "#7A8A72"
-                }
-            ],
-            "sizes": [
-                "G"
-            ],
-            "rating": 0.0,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265149576273465345/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6048-1679121-1.png?ex=66a075dc&is=669f245c&hm=ca9622cc3b8ee3dfd3967fe97987940733fe494d957715bda65f72fd58555620&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265149576810070116/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6050-1679121-2.png?ex=66a075dc&is=669f245c&hm=2d65f78971ff0917e4771af3ca4f3e92baf4c52385632da8390e76810eac50df&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265149577112322058/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6053-1679121-5.png?ex=66a075dc&is=669f245c&hm=b760834c1106e6d6440230024296debe88e4726cd7e75c0dba2638bebf40c737&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265149577447608342/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6054-1679121-6.png?ex=66a075dc&is=669f245c&hm=0bb626f85f0442d1811b6d4ba634065c515e45609c30a5106c5245f4d1db0674&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265149577770700891/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6055-1679121-7.png?ex=66a075dc&is=669f245c&hm=c6419d69c5bf74d42446140a3f0561bf1719c57d088bdb7c78588ffd0bc1d0a4&"
-                ]
-            }
-        },
-        {
-            "id": 4,
-            "sku": "1133908",
-            "title": "Rack Bancada Suspensa 183 cm TV 75 Pol 2891 Fenddi Naturale MDT",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Bancada Suspensa",
-                "Sala"
-            ],
-            "normalPrice": 439.00,
-            "salePrice": 399.00,
-            "discountPercentage": 0.09,
-            "new": true,
-            "description": {
-                "short": "Rack Bancada Suspensa 183 cm TV 75 Pol 2891, é a escolha perfeita para acrescentar beleza na sua sala de estar.",
-                "long": "Estrutura em MDP de 15 mm e 25 mm e portas em MDF de 6 mm, pintura com acabamento UV. Composta por tampo e base curvos que possibilita a disposição de TV de até 75 polegadas de até no máximo 15 kg, 2 portas curvas deslizantes flexíveis com puxadores em bronze que combinam com seu design moderno, prateleira para aparelhos eletrônicos, passa fios, e acompanha kit para fixação na parede. Suporta até 15 kg distribuídos, é ideal que seja utilizado com a TV fixada na parede ou painel. Excelente solução para compor sua sala, trazendo um toque de modernidade para seu ambiente."
-            },
-            "colors": [
-                {
-                    "name": "Fenddi Naturale",
-                    "hex": "#8E795B"
-                }
-            ],
-            "sizes": [
-                "G"
-            ],
-            "rating": 0.0,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265151618966491237/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7267-3987611-1.png?ex=66a077c3&is=669f2643&hm=debcbce0d0b69788a4c7628b0915d98ab5276c595a5e1eda3214a3dafef58da3&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265151619327070270/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7281-3987611-2.png?ex=66a077c3&is=669f2643&hm=bbf7f14c3f2ed82aff4f2e1c9b1697e205a0524bb7891b63857dcddd40b91e23&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265151619696164995/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7286-3987611-5.png?ex=66a077c3&is=669f2643&hm=d77020ed9e92a3a2af9998fc3d2a98de8aa43671ef208a46c432531e6929da1d&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265151620434366486/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7283-3987611-3.png?ex=66a077c3&is=669f2643&hm=7b948307403c3101d5b4a369cf4298b74040b73f9d8372b8b32ff53f2274d972&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265151620094758912/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7289-3987611-7.png?ex=66a077c3&is=669f2643&hm=7d107572ef5b756ef92b2a30da3bc1b40d82a647e4f0eeee95530fc82a71ded6&"
-                ]
-            }
-        },
-        {
-            "id": 5,
-            "sku": "522361",
-            "title": "Rack Classic I 2 GV Off White com Freijó Touch 218 cm",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Off White",
-                "Freijó Touch",
-                "Sala"
-            ],
-            "normalPrice": 1087.99,
-            "salePrice": 716.34,
-            "discountPercentage": 0.34,
-            "new": false,
-            "description": {
-                "short": "Rack Classic I 2 GV Off White com Freijó Touch 218 cm. Estrutura completa para deixar sua sala de estar bem organizada e com um visual charmoso.",
-                "long": "Além dos compartimentos internos, possui um amplo tampo para acomodar eletrônicos e outros objetos essenciais. Combina facilmente com outros móveis da sala, como sofá e mesinhas laterais, para criar um centro de entretenimento aconchegante."
-            },
-            "colors": [
-                {
-                    "name": "Off White",
-                    "hex": "#F5F5F5"
-                },
-                {
-                    "name": "Freijó Touch",
-                    "hex": "#D3B88C"
-                }
-            ],
-            "sizes": [
-                "G"
-            ],
-            "rating": 4.9,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265153290761670656/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9655-230445-1.png?ex=66a07951&is=669f27d1&hm=19417481bbb26e8082a5701a5e44dc963fdb008b573345394980c96d6191e644&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265153291113726083/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-8175-230445-2.png?ex=66a07952&is=669f27d2&hm=ac05c33afb64d0d0a127a73f892b2d32424bc1e3ac8ebba977e32f40aa01788f&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265153291390681200/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9655-230445-5.png?ex=66a07952&is=669f27d2&hm=8020aef2bb378c5f0e8a854027f19b178aaaa0fa0c8adc830c6aaa8218aa3546&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265153291663179798/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9655-230445-6.png?ex=66a07952&is=669f27d2&hm=d1fba2095a32362db89f0cb718b766dca4be506c73816ad383569a65fbaf2f9b&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265153291961110602/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9655-230445-4.png?ex=66a07952&is=669f27d2&hm=289c89469c518873b73096d908e8d92898b3ffd8fd3863bd1db89e4dc11e2182&"
-                ]
-            }
-        },
-        {
-            "id": 6,
-            "sku": "1011823",
-            "title": "Rack Vivare Preto e Freijó 180 cm",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Preto",
-                "Freijó",
-                "Sala"
-            ],
-            "normalPrice": 1014.99,
-            "salePrice": 702.89,
-            "discountPercentage": 0.31,
-            "new": false,
-            "description": {
-                "short": "A organização ideal começa com o Rack Vivare e sua estrutura perfeita para facilitar o dia a dia. Além de apoiar a televisão no tampo espaçoso, ele também é o cantinho certo para acomodar os eletrônicos e enfeites importantes para o visual do ambiente.",
-                "long": "O Rack Vivare Preto e Freijó 180 cm é uma grande adição para a decoração do cômodo, graças à sua cor clássica que traz charme e versatilidade. Com bons compartimentos internos, pode ser usado sozinho ou em conjunto com um painel para ampliar sua funcionalidade."
-            },
-            "colors": [
-                {
-                    "name": "Preto",
-                    "hex": "#000000"
-                },
-                {
-                    "name": "Freijó",
-                    "hex": "#D3B88C"
-                }
-            ],
-            "sizes": [
-                "G"
-            ],
-            "rating": 4.8,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265155434952654938/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9972-9893401-1.png?ex=66a07b51&is=669f29d1&hm=222e9a8b6b35c57914ccacb6590c7baa8c2313f34ae3342288d3e581dfbdc105&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265155435279941733/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9976-9893401-5.png?ex=66a07b51&is=669f29d1&hm=efdd5e9d456f982b7825045139c8f645353275665c250477a4744480cd5d67cc&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265155435569086495/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9977-9893401-6.png?ex=66a07b51&is=669f29d1&hm=7947d7147e2617f923151517e9cc5e7d11615d177cbf313966662f38734e6dbc&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265155435867013220/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9973-9893401-2.png?ex=66a07b51&is=669f29d1&hm=4becef4aea5e776ee2bfc3d657faec34830354b1acb9fd68ea75caf8a0075e3e&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265155436135579648/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9974-9893401-3.png?ex=66a07b51&is=669f29d1&hm=efefbdb1f0d5241c2b8451185454811cc8399a68ac27f5b7f8f1510b8e21776e&"
-                ]
-            }
-        },
-        {
-            "id": 7,
-            "sku": "939470",
-            "title": "Rack Retrô Madesa Reims para TV até 75 Polegadas Pés de Madeira - Branco",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Retrô",
-                "Branco",
-                "Pés de Madeira",
-                "Sala"
-            ],
-            "normalPrice": 1079.99,
-            "salePrice": 399.59,
-            "discountPercentage": 0.63,
-            "new": false,
-            "description": {
-                "short": "O Rack Reims da Madesa combina design retrô com materiais de qualidade, como pés em madeira maciça. Suporta TVs de até 75 polegadas e oferece amplo espaço com duas portas laterais e uma gaveta com corrediças metálicas.",
-                "long": "Com um acabamento branco e amadeirado feito com Pintura Poliéster ecológica, este rack possui 7 camadas de proteção que garantem durabilidade e resistência. Ideal para organizar aparelhos eletrônicos, livros e objetos decorativos na sala de estar."
-            },
-            "colors": [
-                {
-                    "name": "Branco",
-                    "hex": "#FFFFFF"
-                },
-                {
-                    "name": "Amadeirado",
-                    "hex": "#8B4513"
-                }
-            ],
-            "sizes": [
-                "G"
-            ],
-            "rating": 4.5,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265157368229003327/Estilare-Rack-Ciro-Branco-125-cm-9065-201767-1.png?ex=66a07d1e&is=669f2b9e&hm=4504bf075f42c16b16be46a8e6f1e31c0269406f4fbaff336862eab17b636db6&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157175593140235/Madesa-Rack-RetrC3B4-Madesa-Reims-para-TV-atC3A9-75-Polegadas-PC3A9s-de-Madeira---Branco-6166-351179-2.png?ex=66a07cf0&is=669f2b70&hm=83e03aba66cbf7bf9766510e684858824cffd611a01d61eefb24151b215e86ee&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157175953592330/Madesa-Rack-RetrC3B4-Madesa-Reims-para-TV-atC3A9-75-Polegadas-PC3A9s-de-Madeira---Branco-6167-351179-3.png?ex=66a07cf0&is=669f2b70&hm=112fb9a3ab9a679759a15b05ec10f5962867afd793474e640f85552730bfae05&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157176402645093/Madesa-Rack-RetrC3B4-Madesa-Reims-para-TV-atC3A9-75-Polegadas-PC3A9s-de-Madeira---Branco-6173-351179-6.png?ex=66a07cf0&is=669f2b70&hm=0554c40dda794505f96f2165a107de14614958c9f138632f8a44ea8cabbe5568&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157176716951602/Madesa-Rack-RetrC3B4-Madesa-Reims-para-TV-atC3A9-75-Polegadas-PC3A9s-de-Madeira---Branco-6175-351179-7.png?ex=66a07cf0&is=669f2b70&hm=e7db0c215923fd0cec3452ad4fbb33d700033b9cff6138d11d23b9724230d1ad&"
-                ]
-            }
-        },
-        {
-            "id": 8,
-            "sku": "739703",
-            "title": "Rack Ciro Branco 125 cm",
-            "category": "Racks, Painéis e Estantes para Home Theater",
-            "tags": [
-                "Sala de Estar",
-                "Móveis"
-            ],
-            "normalPrice": 494.99,
-            "salePrice": 328.39,
-            "discountPercentage": 0.33,
-            "new": false,
-            "description": {
-                "short": "Rack Ciro Branco 125 cm",
-                "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
-            },
-            "colors": [
-                {
-                    "name": "Branco",
-                    "hex": "#FFFFFF"
-                }
-            ],
-            "sizes": [
-                {
-                    "height": "40 cm",
-                    "width": "125 cm",
-                    "depth": "32 cm"
-                }
-            ],
-            "rating": 4.9,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265157368229003327/Estilare-Rack-Ciro-Branco-125-cm-9065-201767-1.png?ex=66a07d1e&is=669f2b9e&hm=4504bf075f42c16b16be46a8e6f1e31c0269406f4fbaff336862eab17b636db6&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157368572805120/Estilare-Rack-Ciro-Branco-125-cm-9066-201767-2.png?ex=66a07d1e&is=669f2b9e&hm=e5040a07834ea79325fc86eb7668dcc0dbb23b47d6a71d20f28e8b90a7dede4a&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157368937975900/Estilare-Rack-Ciro-Branco-125-cm-9067-201767-3.png?ex=66a07d1e&is=669f2b9e&hm=51ffcd7814b3b1e0a008581aef3db30587d92caa74d4269e7605374136a86e46&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157369294356531/Estilare-Rack-Ciro-Branco-125-cm-4957-201767-4.png?ex=66a07d1e&is=669f2b9e&hm=246ef75926efbe5c1fca4a6ef5af70d5c9d771d7c4ea33c40534c5e8850c673b&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157369676169269/Estilare-Rack-Ciro-Branco-125-cm-4975-201767-5.png?ex=66a07d1e&is=669f2b9e&hm=36f0afe56e8ff2df55675ecc86b857919dedef6456fcfff55a7b1e6c6abbb16f&"
-                ]
-            }
-        },
-        {
-            "id": 9,
-            "sku": "1051175",
-            "title": "Rack 2 Portas Ditália R-606 Branco",
-            "category": "Racks, Painéis e Estantes para Home Theater",
-            "tags": [
-                "Sala de Estar",
-                "Móveis"
-            ],
-            "normalPrice": 313.41,
-            "salePrice": 313.41,
-            "discountPercentage": 0.04,
-            "new": false,
-            "description": {
-                "short": "Rack 2 Portas Ditália R-606 Branco",
-                "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas."
-            },
-            "colors": [
-                {
-                    "name": "Branco",
-                    "hex": "#FFFFFF"
-                }
-            ],
-            "sizes": [
-                {
-                    "height": "47 cm",
-                    "width": "150 cm",
-                    "depth": "44 cm"
-                }
-            ],
-            "rating": 0.0,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265157476903551108/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5701-6463801-2.png?ex=66a07d37&is=669f2bb7&hm=c84230f9e47350d79fd64296e1ab9192d6f69fd5670a9a7d8789560298be4ee2&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157477289168986/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5710-6463801-7.png?ex=66a07d38&is=669f2bb8&hm=53c473e9e0175b7d8d9cee597061829c479105d02397afabda57124b123801be&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157477566251008/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5711-6463801-8.png?ex=66a07d38&is=669f2bb8&hm=9217a9db841e7d4d144f5c750403048e1e4ca5a35f038ede3ac7fafdc9f865ff&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157478069305406/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5698-6463801-1.png?ex=66a07d38&is=669f2bb8&hm=6fe7bab1fc98ade9fa3d75dbc6edc6776eefd586435afb4b8ab5645192b8d03c&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265157478363041792/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5706-6463801-4.png?ex=66a07d38&is=669f2bb8&hm=afb3fadf5dea2a06921bb61cf098988ba4481cb6690d86264164e1e5e44a4a07&"
-                ]
-            }
-        },
-        {
-            "id": 10,
-            "sku": "1185189",
-            "title": "Rack para TV até 60 Polegadas Theo Cinamomo e Off White 133 cm",
-            "category": "Racks",
-            "tags": [
-                "Rack",
-                "Theo",
-                "Cinamomo",
-                "Off White",
-                "Sala"
-            ],
-            "normalPrice": 629.99,
-            "salePrice": 373.37,
-            "discountPercentage": 0.41,
-            "new": false,
-            "description": {
-                "short": "O Rack Theo é ideal para organizar sua sala de estar com estilo e funcionalidade. Com capacidade para TVs de até 60 polegadas, possui um tampo espaçoso para eletrônicos e compartimentos para armazenar objetos decorativos.",
-                "long": "Além de apoiar a televisão, sua estrutura em Cinamomo e Off White oferece um design clássico e versátil. É possível utilizá-lo sozinho ou combinado com um painel para otimizar o espaço. Um móvel essencial para criar um ambiente acolhedor e elegante."
-            },
-            "colors": [
-                {
-                    "name": "Cinamomo",
-                    "hex": "#8B4513"
-                },
-                {
-                    "name": "Off White",
-                    "hex": "#F5F5F5"
-                }
-            ],
-            "sizes": [
-                "G"
-            ],
-            "rating": 5.0,
-            "images": {
-                "mainImage": "https://cdn.discordapp.com/attachments/1265035439933358080/1265158396315832471/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6065-9579121-1.png?ex=66a07e13&is=669f2c93&hm=dba5e9413bf9347222a90878a68bc8239eb49c2d80cee110b943c47f5ac6a623&",
-                "gallery": [
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265158396852568146/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6067-9579121-2.png?ex=66a07e13&is=669f2c93&hm=d2181692970605cce0dc1dacd5c1b117769e9252df6979aa563a39b33e159d03&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265158397297299549/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6070-9579121-5.png?ex=66a07e13&is=669f2c93&hm=3062e5ffb2454a057c7f55ae8711e88a98a4875b5ee2e51a0003f74fe53326d1&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265158397658140782/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6071-9579121-6.png?ex=66a07e13&is=669f2c93&hm=4202fc2341ee03b5d6f4cca0059cecc032ba0b8859bac85af1c00e8913b54e35&",
-                    "https://cdn.discordapp.com/attachments/1265035439933358080/1265158398136160316/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6068-9579121-3.png?ex=66a07e13&is=669f2c93&hm=4d321e78265757e2fa263b2b2a3bbcd17fd9d243b4a238a7d9b6ba12ffd399ed&"
-                ]
-            }
-        },
+    "id": 1,
+    "sku": "531871",
+    "title": "Sofá-Cama 2 Lugares Casal Génova Azul",
+    "category": "Sofás",
+    "tags": ["Sofá-cama", "Sala", "Quarto"],
+    "normalPrice": 3199.99,
+    "salePrice": 1844.98,
+    "discountPercentage": 0.42,
+    "new": true,
+    "description": {
+      "short": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente?",
+      "long": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente? Seja na sala de estar, no escritório ou no quarto, ele se adapta muito bem às suas necessidades e ainda dá um toque charmoso para o ambiente. A estrutura aconchegante combinada com os pés palito é ótima para você se sentar, assistir à televisão, ler um livro ou espairecer no dia a dia. Mas se precisar tirar um cochilo ou se for receber visitas em casa, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Show, né? Ah, ele ainda tem essa linda cor azul para ser o toque final da decoração."
+    },
+    "colors": [
+      {
+        "name": "Azul",
+        "hex": "#0000FF"
+      }
+    ],
+    "sizes": ["M", "G"],
+    "rating": 4.9,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "sku": "204089",
+    "title": "Sofá-Cama 3 Lugares Casal Premium Suede Cinza",
+    "category": "Sofás",
+    "tags": ["Sofá-cama", "Sala", "Quarto"],
+    "normalPrice": 1705.99,
+    "salePrice": 1172.66,
+    "discountPercentage": 0.31,
+    "new": false,
+    "description": {
+      "short": "O Sofá-Cama Premium vai renovar os seus dias de descanso",
+      "long": "Dono de um visual que promete levar sofisticação e aconchego para a sua casa, o Sofá-Cama Premium vai renovar os seus dias de descanso, além de ser uma peça digna de elogios em qualquer decoração. Por dentro, ele tem madeira de reflorestamento na composição, uma ótima característica para o uso diário. Já por fora, o suede faz com que todo mundo tenha vontade de ficar nele sem hora para sair, assim como aprimora os seus momentos de lazer em frente à televisão. Ah, para fechar com chave de ouro, ele se transforma rapidamente de sofá para cama para se adaptar à sua rotina e necessidades. Muitos benefícios para um lar que merece ser igualmente incrível ;)"
+    },
+    "colors": [
+      {
+        "name": "Cinza",
+        "hex": "#808080"
+      }
+    ],
+    "sizes": ["G"],
+    "rating": 3.2,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "sku": "531875",
+    "title": "Sofá-Cama 3 Lugares Casal Córsega Cinza Escuro",
+    "category": "Sofás",
+    "tags": ["Sofá-cama", "Sala", "Quarto"],
+    "normalPrice": 3119.99,
+    "salePrice": 1619.98,
+    "discountPercentage": 0.48,
+    "new": false,
+    "description": {
+      "short": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente",
+      "long": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente, independente de onde escolher colocá-lo. Combinando uma estrutura elegante com pés palito, ele serve tanto para aqueles momentos de lazer em frente à televisão ou lendo um livro, como também para acomodar as suas visitas que passarão à noite na sua casa. Para isso, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Demais, né? Ah, a cor cinza e os detalhes do revestimento só acrescentam mais charme ao seu lar-style."
+    },
+    "colors": [
+      {
+        "name": "Cinza",
+        "hex": "#808080"
+      }
+    ],
+    "sizes": ["P", "M"],
+    "rating": 4.4,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-2.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-3.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-4.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "sku": "531875",
+    "title": "Sofá-Cama 3 Lugares Casal Venice Amarelo",
+    "category": "Sofás",
+    "tags": ["Sofá-cama", "Sala", "Quarto"],
+    "normalPrice": 4229.99,
+    "salePrice": 1781.98,
+    "discountPercentage": 0.57,
+    "new": false,
+    "description": {
+      "short": "O Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos!",
+      "long": "Forma prática de aumentar a receptividade do lar, o Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos! Bem-vindo desde a sala de estar até o escritório, ele tem um design de linhas simples e pés levemente angulados, sem contar na cor marcante que é perfeita para compor o espaço e fazer dele a estrela do ambiente - ah, o acabamento costurado do assento e encosto é outro destaque elegante que vale à pena citar. Para trazer conforto à rotina ou receber os amigos no final de semana, ele acompanha aquela sessão de filme ou bate-papo quando na posição original e, com pequenas mudanças na estrutra, vira um leito extra para os convidados que ficarem a mais. Toda essa usabilidade vai fazer da sua casa um porto seguro onde você pode relaxar e recarregar as energias para o dia seguinte - características que todo mundo quer, né?"
+    },
+    "colors": [
+      {
+        "name": "Amarelo",
+        "hex": "#FFFF00"
+      }
+    ],
+    "sizes": ["G"],
+    "rating": 4.7,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-2.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-3.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-4.jpg",
+        "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "sku": "1147903",
+    "title": "Sofá Retrátil Sem Caixa 3 lugares Solomons Linho Bege",
+    "category": "Sofás",
+    "tags": ["Sofá Retrátil", "Sala"],
+    "normalPrice": 4409.99,
+    "salePrice": 2800.74,
+    "discountPercentage": 0.36,
+    "new": false,
+    "description": {
+      "short": "Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável.",
+      "long": "Aconchegante e receptivo, o Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável. Estruturado em materiais resistentes, ele tem assento e encosto com enchimento em espuma e almofadas soltas em plumante de silicone, conferindo muito bem-estar e aconchego a quem está usando. Além de ser acolhedor e se transformar também em sofá-cama, o móvel é ideal para ambientes menores, pois é do tipo sem caixa, que otimiza o espaço disponível no cômodo e libera mais área de circulação. Tudo isso é arrematado com um design clean e elegante que destaca a cor atemporal e com certeza vai deixar seu cantinho impecável, digno de muitos elogios."
+    },
+    "colors": [
+      {
+        "name": "Bege",
+        "hex": "#FFEBCD"
+      }
+    ],
+    "sizes": ["G", "EG"],
+    "rating": 4.6,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2636-3691811-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2639-3691811-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2643-3691811-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2645-3691811-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2647-3691811-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "sku": "1147875",
+    "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cru",
+    "category": "Sofás",
+    "tags": ["Sofá Retrátil", "Sala"],
+    "normalPrice": 3749.99,
+    "salePrice": 2456.96,
+    "discountPercentage": 0.34,
+    "new": true,
+    "description": {
+      "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
+      "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+    },
+    "colors": [
+      {
+        "name": "Cru",
+        "hex": "#F5F5DC"
+      }
+    ],
+    "sizes": ["EG"],
+    "rating": 4.9,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4214-5391811-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4215-5391811-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "sku": "785346",
+    "title": "Sofá 3 Lugares Belgrado com Chaise Direito Linho Cinza 230 cm",
+    "category": "Sofás",
+    "tags": ["Sofá Retrátil", "Sala"],
+    "normalPrice": 4049.99,
+    "salePrice": 2807.96,
+    "discountPercentage": 0.3,
+    "new": false,
+    "description": {
+      "short": "Recepcionar com aconchego e bom gosto",
+      "long": "Recepcionar com aconchego e bom gosto será uma tarefa fácil com a presença do Sofá Belgrado aí na sua casa! Estruturado em madeira eucalipto de reflorestamento, ele possui percintas elásticas e molas na composição, o que garante uma peça mais firme e agradável de usar. Já por fora, o móvel é revestido em linho, material que agrega valor estético à sua decoração. Ah, não podemos deixar de comentar sobre a chaise, essa parte do sofá que tem a profundidade maior e é perfeita para os momentos de esticar as pernas e relaxar. Só benefícios para o seu doce lar, né? ;)"
+    },
+    "colors": [
+      {
+        "name": "Cinza",
+        "hex": "#808080"
+      }
+    ],
+    "sizes": ["G"],
+    "rating": 5,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7065-758318-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7071-758318-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "sku": "623883",
+    "title": "Sofá Retrátil e Reclinável 3 Lugares Blenda II Suede Grafite",
+    "category": "Sofás",
+    "tags": ["Sofá Retrátil", "Sala"],
+    "normalPrice": 2092.99,
+    "salePrice": 1421.96,
+    "discountPercentage": 0.32,
+    "new": false,
+    "description": {
+      "short": "Para promover aconchego e bem-estar aos seus cantinhos preferidos",
+      "long": "Para promover aconchego e bem-estar aos seus cantinhos preferidos, conte com as almofadas que abraçam o corpo e a maciez do suede que só o Sofá Blenda pode oferecer. Graças ao design retilíneo e cor atemporal, ele é perfeito para trazer o charme que falta ao seu lar-style enquanto acomoda familiares e amigos para aquela conversa gostosa em um final de tarde ou sessão de filmes no fim de semana. Para melhorar, ele ainda tem assento retrátil, que ajuda a proporcionar um relaxamento mais pleno, e encosto reclinável que deixa aquele cochilo depois do almoço bem mais confortável."
+    },
+    "colors": [
+      {
+        "name": "Cinza",
+        "hex": "#808080"
+      }
+    ],
+    "sizes": ["M"],
+    "rating": 3.9,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2794-966646-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2795-966646-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2796-966646-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2797-966646-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2798-966646-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "sku": "813087",
+    "title": "Sofá 3 Lugares Retrátil Berna Linho Grafite 180 cm",
+    "category": "Sofás",
+    "tags": ["Sofá Retrátil", "Sala"],
+    "normalPrice": 1749.99,
+    "salePrice": 1295.96,
+    "discountPercentage": 0.25,
+    "new": false,
+    "description": {
+      "short": "Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)",
+      "long": "Momentos mais aconchegantes e uma sala de estar completa te esperam com a presença do Sofá Berna! Estruturado em madeira eucalipto, que é um ótimo reforço para o uso do dia a dia, a peça possui percintas elásticas na composição, encosto fixo em fibra siliconada e assento retrátil em espuma D26. Já por fora, o móvel ainda é revestido em linho com uma coloração que agrega beleza e bom gosto à decoração do seu espaço. Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)"
+    },
+    "colors": [
+      {
+        "name": "Grafite",
+        "hex": "#4F4F4F"
+      }
+    ],
+    "sizes": ["M", "G"],
+    "rating": 4.5,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-5.jpg"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "sku": "1147877",
+    "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cinza",
+    "category": "Sofás",
+    "tags": ["Sofá Retrátil", "Sala"],
+    "normalPrice": 3749.99,
+    "salePrice": 2447.96,
+    "discountPercentage": 0.34,
+    "new": true,
+    "description": {
+      "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
+      "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+    },
+    "colors": [
+      {
+        "name": "Cinza",
+        "hex": "#808080"
+      }
+    ],
+    "sizes": ["EG"],
+    "rating": 4.5,
+    "images": {
+      "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-1.jpg",
+      "gallery": [
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4193-7391811-2.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4194-7391811-3.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-4.jpg",
+        "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-5.jpg"
+      ]
+    }
+  },
         {
             "id": 11,
             "sku": "531871",
