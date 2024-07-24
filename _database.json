@@ -1285,11 +1285,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265039084401725621/Mobly-Cadeira-Charles-Eames-II-Preta-9703-686757-2.png?ex=66a00ef5&is=669ebd75&hm=6e9877171567863d4333db09f7e6404d22b1bdd736647401a45d5105743aa525&",
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Cadeira-Charles-Eames-II-Preta-9703-686757-2.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265040833472892928/Mobly-Cadeira-de-Jantar-Charles-Eames-Azul-9911-856757-1.png?ex=66a01096&is=669ebf16&hm=c6621ef596f20cd27270b8dda5e24a6b3acc95f3742d70283af6cfa96f2ea778&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265040858537918464/Mobly-Cadeira-de-Jantar-Charles-Eames-Rosa-9876-366757-1.png?ex=66a0109b&is=669ebf1b&hm=ae4b5f9281c5cd399cc0b5743e99172da3fc07211cf74a17240427b82d6c564d&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265041069196705843/Mobly-Cadeira-Charles-Eames-II-Preta-9700-686757-1.png?ex=66a010ce&is=669ebf4e&hm=5839a4f549d459ae649d9caaebdd74ea126e96b2a52de7254126c617434bf65a&"
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Charles-Eames-II-Preta-9700-686757-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-de-Jantar-Charles-Eames-Azul-9911-856757-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-de-Jantar-Charles-Eames-Rosa-9876-366757-1.jpg"
         ]
       }
     },
@@ -1307,7 +1307,7 @@
       "normalPrice": 710.96,
       "salePrice": 175,
       "discountPercentage": 0.3,
-      "new": true,
+      "new": false,
       "description": {
         "short": "o Conjunto de Cadeiras Mona vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em aço com pintura preta",
         "long": "De design contemporâneo que flerta com o estilo minimalista, o Conjunto de Cadeiras Mona vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em aço com pintura preta e à cor neutro do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidade ideal para receber bem. Ah, notou o detalhe em tecido sintético? Puro bom gosto para o seu cantinho"
@@ -1329,11 +1329,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265042616517394626/Mobly-Conjunto-com-4-Cadeiras-Mona-Linho-Cinza-e-Caramelo-2924-4964311-2.png?ex=66a0123f&is=669ec0bf&hm=c36631961d173328d517de2bb46dd001f6a37a93c23b05d413bfe93fd19ee0e4&",
+        "mainImage": "https://static.mobly.com.br/p/Fitmobel-Conjunto-de-Mesa-de-Jantar-Retangular-com-Tampo-Natura-Porto-e-4-Cadeiras-Mona-Linho-Bege-2284-446079-1.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265042926216675368/MC3B3veis-Belo-Conjunto-com-2-Cadeiras-Mona-Linho-Gengibre-e-Whisky-4066-1172311-4.png?ex=66a01288&is=669ec108&hm=e90ff1857084d102c1a1fc1d67efb97a315365c58e0412cd507e0f5e2607d1f9&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265042956457345224/MC3B3veis-Belo-Conjunto-com-2-Cadeiras-Mona-Linho-Panama-e-Verde-4059-2172311-4.png?ex=66a01290&is=669ec110&hm=bfc97162f48c852bbdf1f5f1520c992edcb25159d99f03634148f952b0194815&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265042987344334888/MC3B3veis-Belo-Conjunto-com-2-Cadeiras-Mona-Linho-Panama-e-Preto-4072-3172311-4.png?ex=66a01297&is=669ec117&hm=94b525a29497eddc03ab1c8411071a4349e379901bd23312b8f56166d2bea58f&"
+          "https://static.mobly.com.br/p/MC3B3veis-Belo-Conjunto-com-2-Cadeiras-Mona-Linho-Gengibre-e-Whisky-4066-1172311-4.jpg",
+          "https://static.mobly.com.br/p/MC3B3veis-Belo-Conjunto-com-2-Cadeiras-Mona-Linho-Panama-e-Verde-4059-2172311-4.jpg",
+          "https://static.mobly.com.br/p/MC3B3veis-Belo-Conjunto-com-2-Cadeiras-Mona-Linho-Panama-e-Preto-4072-3172311-4.jpg"
         ]
       }
     },
@@ -1368,11 +1368,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265051677564735579/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Linho-Cinza-e-Nogueira-9086-6509821-2.png?ex=66a01aaf&is=669ec92f&hm=d7ab4615273aa29c53f1e7da95fffef4869746ade7b6fb8300a7b6886ffcaff4&",
+        "mainImage": "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Linho-Cinza-e-Nogueira-9086-6509821-2.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265051767713038556/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Linho-Cinza-e-Nogueira-9084-6509821-1.png?ex=66a01ac4&is=669ec944&hm=51aa19745ff2ad7806a4f295306ec2dbc8511679602647535045424608ede15e&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265051800457842718/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Veludo-Chumbo-e-FreijC3B3-9093-4509821-1.png?ex=66a01acc&is=669ec94c&hm=75959801bed641d19b552e376d8f8e206376cb2d17ab19c7f41b1ddb05ba5de8&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265051823937687582/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Linho-Bege-e-Nogueira-9089-5509821-1.png?ex=66a01ad2&is=669ec952&hm=778e0bf70dfa8469ff562bbb75211c5596ea80542f8b09514f4019cf3de01d23&"
+          "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Linho-Cinza-e-Nogueira-9084-6509821-1.jpg",
+          "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Veludo-Chumbo-e-FreijC3B3-9093-4509821-1.jpg",
+          "https://static.mobly.com.br/p/Kappesberg-Conjunto-com-2-Cadeiras-Tiva-Linho-Bege-e-Nogueira-9089-5509821-1.jpg"
         ]
       }
     },
@@ -1385,7 +1385,7 @@
       "normalPrice": 872.99,
       "salePrice": 175,
       "discountPercentage": 0.3,
-      "new": true,
+      "new": false,
       "description": {
         "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
         "long": "Além de servirem para acomodar nas refeições, cadeiras também dão um toque estiloso à decoração, como o modelo Windsor. Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados, que dá um diferencial ao lar-style e ainda é simples de harmonizar com outros móveis. Ah, elas podem compor diferentes ambientes, seja a sala de jantar, de estar ou mesmo acompanhar sua penteadeira. Tudo isso para você curtir muito com seus convidados ou familiares "
@@ -1407,11 +1407,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265056893710106757/Mobly-Conjunto-com-4-Cadeiras-Windsor-Fendi-9116-1187901-1.png?ex=66a01f8b&is=669ece0b&hm=3ea9f8ce45a6ad4dd7d598d512f2faeffde1d9487dfb18e0684e90ba13181e45&",
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Conjunto-com-4-Cadeiras-Windsor-Fendi-9116-1187901-1.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265056431569109133/Mobly-Conjunto-com-2-Cadeiras-Windsor-Branco-0886-7087901-2.png?ex=66a01f1c&is=669ecd9c&hm=48bc805d84253647261d081c4496658eca3f4a29b90db243282e208a7c1dab61&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265056496408858694/Mobly-Conjunto-com-2-Cadeiras-Windsor-Preto-0867-2187901-2.png?ex=66a01f2c&is=669ecdac&hm=997210d64ec65e901a5e7caac9807ce6f57ef3ca4ff010d0042d78927c9b89b0&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265056560275521607/Mobly-Cadeira-Windsor-Rosa-9111-4187901-1.png?ex=66a01f3b&is=669ecdbb&hm=998ac730f374d5853b9442035adebb8e6a543555296adfa5f733055b53757698&"
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Windsor-Fendi-9127-9087901-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Windsor-Rosa-9111-4187901-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Windsor-Verde-Musgo-e-Madeira-0667-3863611-1.jpg"
         ]
       }
     },
@@ -1429,7 +1429,7 @@
       "normalPrice": 359.96,
       "salePrice": 175,
       "discountPercentage": 0.3,
-      "new": true,
+      "new": false,
       "description": {
         "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
         "long": "Além de servirem para acomodar nas refeições, cadeiras também dão um toque estiloso à decoração, como o modelo Windsor. Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados, que dá um diferencial ao lar-style e ainda é simples de harmonizar com outros móveis. Ah, elas podem compor diferentes ambientes, seja a sala de jantar, de estar ou mesmo acompanhar sua penteadeira. Tudo isso para você curtir muito com seus convidados ou familiares"
@@ -1451,11 +1451,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265057831317405806/Mobly-Cadeira-Web-Preta-e-Madeira-9603-996757-2.png?ex=66a0206a&is=669eceea&hm=519682d84e0866478ee16c305d79462c3edb5c9fc2dd81bea2c1aedc0dc58bdc&",
+        "mainImage": "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Preta-e-Madeira-9603-996757-2.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265057788921647239/Mobly-Cadeira-Web-Branca-e-Madeira-9609-896757-1.png?ex=66a02060&is=669ecee0&hm=7c4386570362a580aa46e4ec2238bb6b01b089fb26904af1ad16aca0e2481567&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265057875450138646/Mobly-Cadeira-Web-Preta-e-Madeira-9600-996757-1.png?ex=66a02075&is=669ecef5&hm=c2452d96c5e56c7505122705726b842d0c57a9467b4422d840d1612252c019b3&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265057912859132025/Mobly-Cadeira-Web-DSW-Fendi-9694-9867901-1.png?ex=66a0207e&is=669ecefe&hm=1d19f67c4f90b3a5cd705205ebe0cff8480fb0d23e09fe8479ef4bf7acf50407&"
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Wood-Fendi-0012-4177901-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Branca-e-Madeira-9609-896757-1.jpg",
+          "https://static.mobly.com.br/p/Mobly-Cadeira-Web-Preta-e-Madeira-9600-996757-1.jpg"
         ]
       }
     },
@@ -1496,11 +1496,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265059704095244340/Loft7-Kit-2-cadeiras-Masters-Allegra-Verde-escuro-0363-1683001-1.png?ex=66a02229&is=669ed0a9&hm=3356762af5c1df2af3804cf0f489c476c8cf8ad48af94f1971f401ca311b1c0f&",
+        "mainImage": "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-Masters-Allegra-Preto-0361-4583001-1.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265059538403328091/Loft7-Cadeira-Masters-Allegra-Laranja-8861-8863001-1.png?ex=66a02201&is=669ed081&hm=98d0dc024d38888a3e6f5e400bc42a5f787eaffa0c5270b8e751cd7808008016&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265059454592880770/Loft7-Cadeira-Masters-Allegra-Verde-escuro-8923-4963001-1.png?ex=66a021ed&is=669ed06d&hm=37b3477bf15b33317bffd6a847abd02131c3b52f4a68d80829918a3e92aa98d9&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265059430626627635/Loft7-Cadeira-Masters-Allegra-Preto-8990-2963001-1.png?ex=66a021e7&is=669ed067&hm=8b5d14f02eee5f9717c5574954a8d44f9a1233ec027ddb5f803e182c6904cbe7&"
+          "https://static.mobly.com.br/p/Loft7-Cadeira-Masters-Allegra-Preto-8990-2963001-1.jpg",
+          "https://static.mobly.com.br/p/Loft7-Cadeira-Masters-Allegra-Verde-escuro-8923-4963001-1.jpg",
+          "https://static.mobly.com.br/p/Loft7-Cadeira-Masters-Allegra-Laranja-8861-8863001-1.jpg"
         ]
       }
     },
@@ -1535,17 +1535,17 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265062349950423272/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Cinza---Lyam-5017-2097911-2.png?ex=66a0249f&is=669ed31f&hm=3e3c7123179c56ff1ce2298d274954c23052d3334f5ae813d1faa711e342b2ec&",
+        "mainImage": "https://static.mobly.com.br/p/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Bege---Lyam-4921-8975911-2.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265062392954486884/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Bege-Escuro---Lyam-7265-8987911-1.png?ex=66a024aa&is=669ed32a&hm=7e0ed3e9cba08b66b39226f65447b8f5fea27ee72270a3b322e0089a1b237d5c&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265062412160073790/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-RosC3AA---Lyam-4982-0987911-1.png?ex=66a024ae&is=669ed32e&hm=f7136895e5f818b4cca0d93b6bab6f966871f8aa5e8267e27ed680d0364f7a88&0",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265062445307789432/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Bege---Lyam-4918-8975911-1.png?ex=66a024b6&is=669ed336&hm=986c8bea9243cb93cb8bb0bd0e26f88856ddaac5c60230bec78d77a22349306c&"
+          "https://static.mobly.com.br/p/Lyam-Decor-Cadeira-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Linho-Bege---Lyam-4918-8975911-1.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-06-Cadeiras-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Suede-RosC3AA---Lyam-7019-8985911-3.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-04-Cadeiras-Para-Sala-de-Jantar-e-Estar-Living-Estofada-C381vila-L02-Suede-Cinza---Lyam-6673-3985911-3.jpg"
         ]
       }
     },
     {
       "id": 48,
-      "title": " Cadeira Melina L02 Couríssimo Camel Couríssimo",
+      "title": " Cadeira Melina L02 Couríssimo ",
       "sku": "1144106",
       "category": "Cadeiras",
       "tags": ["sala de jantar", "Cadeiras de jantar"],
@@ -1574,18 +1574,18 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265063446823571497/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Whisky---Lyam-Decor-8396-0919711-2.png?ex=66a025a5&is=669ed425&hm=4559ae54b2e72c160446d87592d0c2e7d8ac48e7b24a2e1035add33f4369ac8d&",
+        "mainImage": "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Marrom-CourC3ADssimo-Camel---Lyam-Decor-5116-7850811-2.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265063480931778592/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Whisky---Lyam-Decor-8398-0919711-3.png?ex=66a025ad&is=669ed42d&hm=f5b49044a88eae5d3f0f9222e3d29b6c05632d9f692c338a10f7c765f8d80220&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265063506978275370/Lyam-Decor-Kit-02-Cadeiras-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Preto---Lyam-Decor-2800-7308711-3.png?ex=66a025b3&is=669ed433&hm=4575c13b78f263c4da6c0c5d134fa3f6216b18385ef0db066803811a1e384b52&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265063533448527972/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Marrom---Lyam-Decor-2815-2418711-3.png?ex=66a025ba&is=669ed43a&hm=e3e435959bda266d0ec80826bd830d72f6e53aa46304fedb816ceac0502992f8&"
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Marrom-CourC3ADssimo-Camel---Lyam-Decor-5118-7850811-3.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeiras-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Preto---Lyam-Decor-2800-7308711-3.jpg",
+          "https://static.mobly.com.br/p/Lyam-Decor-Kit-02-Cadeira-Para-Sala-De-Jantar-Melina-L02-CourC3ADssimo-Camel-CourC3ADssimo-Marrom---Lyam-Decor-2815-2418711-3.jpg"
         ]
       }
     },
     {
       "id": 49,
       "sku": "1103940 ",
-      "title": "Cadeira estofada Charles Eames Eiffel",
+      "title": "Cadeira estofada Charles",
       "category": "Cadeiras",
       "tags": [
         "sala de jantar",
@@ -1596,7 +1596,7 @@
       "normalPrice": 170.9,
       "salePrice": 175,
       "discountPercentage": 0.3,
-      "new": true,
+      "new": false,
       "description": {
         "short": "Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes.",
         "long": "Caso você esteja buscando conforto, realce e praticidade, a Cadeira Estofada Melina vai superar todas as suas expectativas. Garante muita comodidade e otimiza o espaço, além de harmonizar com seu estilo decorativo facilmente, podendo ser utilizada em salas de estar, jantar e cozinha, além de dar um toque especial em sua decoração. Sua proposta de design suavizará seu ambiente sem passar despercebida oferecendo mais leveza e receptividade ao seu lar. Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes. Você merece esta incrível combinação em sua casa, adquira já a sua!"
@@ -1618,11 +1618,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265065121101774918/Loft7-Kit-4-cadeiras-estofadas-Charles-Eames-Eiffel-Slim-Wood-confort-Preto-1395-1059311-1.png?ex=66a02734&is=669ed5b4&hm=ef77ad34b0ea99237118f8bfb31aa9fc491f6e87151c8f34d87b6c790ae1ee7c&",
+        "mainImage": "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Preto-8951-3848601-1.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265065147274363050/Loft7-Kit-4-cadeiras-estofadas-Charles-Eames-Eiffel-Slim-Wood-confort-Branco-2510-0759311-2.png?ex=66a0273a&is=669ed5ba&hm=46b0745da56a1a16eef752ef3fd4c70dc661b74bebbcfedee3ddc1485a11a5a6&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265065099027283978/Loft7-Kit-6-cadeiras-estofadas-Charles-Eames-Eiffel-Slim-Wood-confort-Nude-3359-5220411-2.png?ex=66a0272f&is=669ed5af&hm=3a07d8b812bd99fb5966f9a271923218a1fb6fbf77ba9fc78ee5463f2aefcc7e&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265065071545946152/Loft7-Cadeira-estofada-Charles-Eames-Eiffel-Slim-Wood-confort-Preto-2218-6027311-1.png?ex=66a02728&is=669ed5a8&hm=c437883b3439f4ad8c3342f21917347bd5eaa179dba18ed78462e633d61163fd&"
+          "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Preto-8954-3848601-2.jpg",
+          "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Cinza-mC3A9dio-4743-6672621-2.jpg",
+          "https://static.mobly.com.br/p/Loft7-Kit-2-cadeiras-estofadas-Charles-Eames-Eiffel-BotonC3AA-com-pC3A9s-de-madeira-clara-Branco-9371-0487601-2.jpg"
         ]
       }
     },
@@ -1639,7 +1639,7 @@
       "normalPrice": 368.96,
       "salePrice": 175,
       "discountPercentage": 0.3,
-      "new": true,
+      "new": false,
       "description": {
         "short": " estrutura em ferro com pintura epóxi preta e à cor grafite do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidades ideais para acolher bem cada parte específica do corpo",
         "long": "De design contemporâneo que flerta com o estilo minimalista, a Cadeira Lia vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em ferro com pintura epóxi preta e à cor grafite do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidades ideais para acolher bem cada parte específica do corpo. Versátil, essa peça pode compor diversos ambientes, da sala de jantar até a sala de estar ou escritório - certeza que a estrutura vazada vai levar um charme extra ao seu cantinho "
@@ -1661,11 +1661,11 @@
       "sizes": ["L", "XL", "XS"],
       "rating": 4.5,
       "images": {
-        "mainImage": "https://cdn.discordapp.com/attachments/1265035590672453704/1265066051666710638/Keva-Cadeira-Lia-Grafite-e-Preta-6153-0579301-2.png?ex=66a02812&is=669ed692&hm=2ad053751ddc86705bbf125ee26c6f68cb66c6833eb1bb488d717a548decd566&",
+        "mainImage": "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Grafite-e-Preta-6153-0579301-2.jpg",
         "gallery": [
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265066068137869332/Keva-Cadeira-Lia-Marrom-e-Preta-6030-4579301-1.png?ex=66a02816&is=669ed696&hm=37c3ad91d95c90461011577825ee05bcb00b8185363248d6bb95a259d1619919&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265066137641681017/Keva-Cadeira-Lia-Grafite-e-Preta-6063-0579301-1.png?ex=66a02827&is=669ed6a7&hm=f4cd2caf5ac745d0caff8a7427bf2301884b9c3e8af6f48becdd888576349955&",
-          "https://cdn.discordapp.com/attachments/1265035590672453704/1265066087196659732/Keva-Cadeira-Lia-Cinza-e-Preta-6552-1579301-1.png?ex=66a0281a&is=669ed69a&hm=2e6f49d2281efd5fe5817b886a4865bf7447ed2b51c1b21bfa0f41674192f0c2&"
+          "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Grafite-e-Preta-6063-0579301-1.jpg",
+          "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Rosa-e-Preta-6047-2579301-1.jpg",
+          "https://static.mobly.com.br/p/Keva-Cadeira-Lia-Azul-e-Preta-6038-3579301-1.jpg"
         ]
       }
     },
