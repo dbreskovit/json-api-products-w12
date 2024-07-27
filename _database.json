@@ -2,324 +2,362 @@
   "products": [
     {
       "id": 1,
-      "sku": "531871",
-      "title": "Sofá-Cama 2 Lugares Casal Génova Azul",
-      "category": "Sofás",
-      "tags": ["Sofá-cama", "Sala", "Quarto"],
-      "normalPrice": 3199.99,
-      "salePrice": 1844.98,
-      "discountPercentage": 0.42,
+      "sku": "1156215",
+      "title": "Rack Fortaleza Freijó 218 cm",
+      "category": "Racks",
+      "tags": ["Rack", "Rack-Fortaleza", "Sala"],
+      "normalPrice": 1.729,
+      "salePrice": 890.92,
+      "discountPercentage": 0.48,
       "new": true,
+      "slug": "rack-fortaleza-freijo-218-cm",
       "description": {
-        "short": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente?",
-        "long": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente? Seja na sala de estar, no escritório ou no quarto, ele se adapta muito bem às suas necessidades e ainda dá um toque charmoso para o ambiente. A estrutura aconchegante combinada com os pés palito é ótima para você se sentar, assistir à televisão, ler um livro ou espairecer no dia a dia. Mas se precisar tirar um cochilo ou se for receber visitas em casa, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Show, né? Ah, ele ainda tem essa linda cor azul para ser o toque final da decoração."
+        "short": "Com formato retilíneo e inspirado no design contemporâneo, o Rack Fortaleza é uma ótima escolha para você decorar com estilo e praticidade a sala de estar",
+        "long": ", o home cinema ou o quarto. Amplo, ele acomoda sua TV de até 75 polegadas, além de receber livros, adornos, aparelhos eletrônicos e outros objetos do dia a dia - isso graças aos nichos decorativos e ao espaço interno. Já o acabamento amadeirado deixa a decoração elegante e sofisticada.  Perfeito, não é?"
       },
       "colors": [
         {
-          "name": "Azul",
-          "hex": "#0000FF"
+          "name": "Marrom",
+          "hex": "#800000"
         }
       ],
-      "sizes": ["M", "G"],
-      "rating": 4.9,
+      "sizes": ["G", "M"],
+      "rating": 5,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6075-3030911-1.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg"
+          "https://static.mobly.com.br/p/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6076-3030911-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6077-3030911-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6077-3030911-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-Fortaleza-FreijC3B3-218-cm-6077-3030911-5.jpg"
         ]
       }
     },
     {
       "id": 2,
-      "sku": "204089",
-      "title": "Sofá-Cama 3 Lugares Casal Premium Suede Cinza",
-      "category": "Sofás",
-      "tags": ["Sofá-cama", "Sala", "Quarto"],
-      "normalPrice": 1705.99,
-      "salePrice": 1172.66,
-      "discountPercentage": 0.31,
-      "new": false,
+      "sku": "760330",
+      "title": "Rack para TV até 75 Polegadas Madesa Reims 2 Portas 1 Gaveta - Branco",
+      "category": "Racks",
+      "tags": ["Rack", "Rack-Fortaleza", "Sala"],
+      "normalPrice": 1079.99,
+      "salePrice": 399.59,
+      "discountPercentage": 0.63,
+      "new": true,
+      "slug": "rack-para-tv-ate-75-polegadas-madesa-reims-2-portas-1-gaveta-branco",
       "description": {
-        "short": "O Sofá-Cama Premium vai renovar os seus dias de descanso",
-        "long": "Dono de um visual que promete levar sofisticação e aconchego para a sua casa, o Sofá-Cama Premium vai renovar os seus dias de descanso, além de ser uma peça digna de elogios em qualquer decoração. Por dentro, ele tem madeira de reflorestamento na composição, uma ótima característica para o uso diário. Já por fora, o suede faz com que todo mundo tenha vontade de ficar nele sem hora para sair, assim como aprimora os seus momentos de lazer em frente à televisão. Ah, para fechar com chave de ouro, ele se transforma rapidamente de sofá para cama para se adaptar à sua rotina e necessidades. Muitos benefícios para um lar que merece ser igualmente incrível ;)"
+        "short": "Se você quer renovar a sua sala de estar, o Rack Madesa Reims Branco é a escolha certa para deixar sua casa ainda mais bonita e organizada!",
+        "long": "O móvel possui um design super moderno, com destaque para seus pés de madeira maciça na cor marrom que, além de proporcionarem uma ótima sustentação, trazem um charme a mais para qualquer ambiente. O Rack Madesa Reims é ideal para TVs de até 75 polegadas e tem espaço de sobra! Com duas portas laterais e uma gaveta com corrediças metálicas, é perfeito para armazenar e organizar aparelhos eletrônicos, livros, objetos decorativos, DVDs e muito mais."
       },
       "colors": [
         {
-          "name": "Cinza",
-          "hex": "#808080"
+          "name": "Branco",
+          "hex": "#ffffff"
         }
       ],
-      "sizes": ["G"],
-      "rating": 3.2,
+      "sizes": ["G", "M"],
+      "rating": 5,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-1.jpg",
+        "mainImage": "https://madesacms.vtexassets.com/arquivos/ids/263040-650-650",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-8175-770002-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-Cama-3-Lugares-Casal-Premium-Suede-Cinza-9969-770002-5.jpg"
+          "https://madesacms.vtexassets.com/arquivos/ids/263043-650-650",
+          "https://madesacms.vtexassets.com/arquivos/ids/263046-650-650",
+          "https://madesacms.vtexassets.com/arquivos/ids/263041-650-650"
         ]
       }
     },
     {
       "id": 3,
-      "sku": "531875",
-      "title": "Sofá-Cama 3 Lugares Casal Córsega Cinza Escuro",
-      "category": "Sofás",
-      "tags": ["Sofá-cama", "Sala", "Quarto"],
-      "normalPrice": 3119.99,
-      "salePrice": 1619.98,
-      "discountPercentage": 0.48,
-      "new": false,
+      "sku": "1185191",
+      "title": "Rack para TV até 75 Polegadas Charlotte 2 PT Carvalho e Verde Menta 180 cm",
+      "category": "Racks",
+      "tags": ["Rack", "Carvalho", "Verde Menta", "Sala"],
+      "normalPrice": 859.99,
+      "salePrice": 503.87,
+      "discountPercentage": 0.41,
+      "new": true,
+      "slug": "rack-para-tv-ate-75-polegadas-charlotte-2-pt-carvalho-e-verde-menta-180-cm",
       "description": {
-        "short": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente",
-        "long": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente, independente de onde escolher colocá-lo. Combinando uma estrutura elegante com pés palito, ele serve tanto para aqueles momentos de lazer em frente à televisão ou lendo um livro, como também para acomodar as suas visitas que passarão à noite na sua casa. Para isso, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Demais, né? Ah, a cor cinza e os detalhes do revestimento só acrescentam mais charme ao seu lar-style."
+        "short": "A organização ideal começa com o Rack Charlotte e sua estrutura perfeita para facilitar o dia a dia.",
+        "long": "Além de apoiar a televisão no tampo espaçoso, ele também é o cantinho certo para acomodar os eletrônicos e enfeites importantes para o visual do ambiente - isso sem contar que ele mesmo já é uma grande adição para a décor do cômodo, já que tem cor clássica que ajuda a trazer charme e um toque elegante e bem versátil. Por ter bons compartimentos, você pode optar por usá-lo sozinho ou acompanhado de um painel para potencializar a funcionalidade. Assim fica fácil conquistar um lar-style completo e cheio de beleza, né? ;)"
       },
       "colors": [
         {
-          "name": "Cinza",
-          "hex": "#808080"
+          "name": "Carvalho e Verde Menta",
+          "hex": "#7A8A72"
         }
       ],
-      "sizes": ["P", "M"],
-      "rating": 4.4,
+      "sizes": ["G"],
+      "rating": 0.0,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6048-1679121-1.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-2.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-3.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-4.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-CC3B3rsega-Cinza-Escuro-5151-326355-5.jpg"
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6049-1679121-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6050-1679121-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6051-1679121-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-75-Polegadas-Charlotte-2-PT-Carvalho-e-Verde-Menta-180-cm-6052-1679121-5.jpg"
         ]
       }
     },
     {
       "id": 4,
-      "sku": "531875",
-      "title": "Sofá-Cama 3 Lugares Casal Venice Amarelo",
-      "category": "Sofás",
-      "tags": ["Sofá-cama", "Sala", "Quarto"],
-      "normalPrice": 4229.99,
-      "salePrice": 1781.98,
-      "discountPercentage": 0.57,
-      "new": false,
+      "sku": "1133908",
+      "title": "Rack Bancada Suspensa 183 cm TV 75 Pol 2891 Fenddi Naturale MDT",
+      "category": "Racks",
+      "tags": ["Rack", "Bancada Suspensa", "Sala"],
+      "normalPrice": 439.0,
+      "salePrice": 399.0,
+      "discountPercentage": 0.09,
+      "new": true,
+      "slug": "rack-bancada-suspensa-183-cm-tv-75-pol-2891-fenddi-naturale-mdt",
       "description": {
-        "short": "O Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos!",
-        "long": "Forma prática de aumentar a receptividade do lar, o Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos! Bem-vindo desde a sala de estar até o escritório, ele tem um design de linhas simples e pés levemente angulados, sem contar na cor marcante que é perfeita para compor o espaço e fazer dele a estrela do ambiente - ah, o acabamento costurado do assento e encosto é outro destaque elegante que vale à pena citar. Para trazer conforto à rotina ou receber os amigos no final de semana, ele acompanha aquela sessão de filme ou bate-papo quando na posição original e, com pequenas mudanças na estrutra, vira um leito extra para os convidados que ficarem a mais. Toda essa usabilidade vai fazer da sua casa um porto seguro onde você pode relaxar e recarregar as energias para o dia seguinte - características que todo mundo quer, né?"
+        "short": "Rack Bancada Suspensa 183 cm TV 75 Pol 2891, é a escolha perfeita para acrescentar beleza na sua sala de estar.",
+        "long": "Estrutura em MDP de 15 mm e 25 mm e portas em MDF de 6 mm, pintura com acabamento UV. Composta por tampo e base curvos que possibilita a disposição de TV de até 75 polegadas de até no máximo 15 kg, 2 portas curvas deslizantes flexíveis com puxadores em bronze que combinam com seu design moderno, prateleira para aparelhos eletrônicos, passa fios, e acompanha kit para fixação na parede. Suporta até 15 kg distribuídos, é ideal que seja utilizado com a TV fixada na parede ou painel. Excelente solução para compor sua sala, trazendo um toque de modernidade para seu ambiente."
       },
       "colors": [
         {
-          "name": "Amarelo",
-          "hex": "#FFFF00"
+          "name": "Fenddi Naturale",
+          "hex": "#8E795B"
         }
       ],
       "sizes": ["G"],
-      "rating": 4.7,
+      "rating": 0.0,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7268-3987611-2.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-2.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-3.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-4.jpg",
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-3-Lugares-Casal-Venice-Amarelo-1199-739396-5.jpg"
+          "https://static.mobly.com.br/p/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7267-3987611-1.jpg",
+          "https://static.mobly.com.br/p/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7269-3987611-3.jpg",
+          "https://static.mobly.com.br/p/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7270-3987611-4.jpg",
+          "https://static.mobly.com.br/p/Madetec-Rack-Bancada-Suspensa-183-cm-TV-75-Pol-2891-Fenddi-Naturale-MDT-7271-3987611-5.jpg"
         ]
       }
     },
     {
       "id": 5,
-      "sku": "1147903",
-      "title": "Sofá Retrátil Sem Caixa 3 lugares Solomons Linho Bege",
-      "category": "Sofás",
-      "tags": ["Sofá Retrátil", "Sala"],
-      "normalPrice": 4409.99,
-      "salePrice": 2800.74,
-      "discountPercentage": 0.36,
+      "sku": "522361",
+      "title": "Rack Classic I 2 GV Off White com Freijó Touch 218 cm",
+      "category": "Racks",
+      "tags": ["Rack", "Off White", "Freijó Touch", "Sala"],
+      "normalPrice": 1087.99,
+      "salePrice": 716.34,
+      "discountPercentage": 0.34,
       "new": false,
+      "slug": "rack-classic-i-2-gv-off-white-com-freijo-touch-218-cm",
       "description": {
-        "short": "Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável.",
-        "long": "Aconchegante e receptivo, o Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável. Estruturado em materiais resistentes, ele tem assento e encosto com enchimento em espuma e almofadas soltas em plumante de silicone, conferindo muito bem-estar e aconchego a quem está usando. Além de ser acolhedor e se transformar também em sofá-cama, o móvel é ideal para ambientes menores, pois é do tipo sem caixa, que otimiza o espaço disponível no cômodo e libera mais área de circulação. Tudo isso é arrematado com um design clean e elegante que destaca a cor atemporal e com certeza vai deixar seu cantinho impecável, digno de muitos elogios."
+        "short": "Rack Classic I 2 GV Off White com Freijó Touch 218 cm. Estrutura completa para deixar sua sala de estar bem organizada e com um visual charmoso.",
+        "long": "Além dos compartimentos internos, possui um amplo tampo para acomodar eletrônicos e outros objetos essenciais. Combina facilmente com outros móveis da sala, como sofá e mesinhas laterais, para criar um centro de entretenimento aconchegante."
       },
       "colors": [
         {
-          "name": "Bege",
-          "hex": "#FFEBCD"
+          "name": "Off White",
+          "hex": "#F5F5F5"
+        },
+        {
+          "name": "Freijó Touch",
+          "hex": "#D3B88C"
         }
       ],
-      "sizes": ["G", "EG"],
-      "rating": 4.6,
+      "sizes": ["G"],
+      "rating": 4.9,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2636-3691811-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9655-230445-1.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2639-3691811-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2643-3691811-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2645-3691811-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-Sem-Caixa-3-lugares-Solomons-Linho-Bege-2647-3691811-5.jpg"
+          "https://static.mobly.com.br/p/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9656-230445-2.jpg",
+          "https://static.mobly.com.br/p/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9657-230445-3.jpg",
+          "https://static.mobly.com.br/p/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9658-230445-4.jpg",
+          "https://static.mobly.com.br/p/Imcal-Rack-Classic-I-2-GV-Off-White-com-FreijC3B3-Touch-218-cm-9659-230445-5.jpg"
         ]
       }
     },
     {
       "id": 6,
-      "sku": "1147875",
-      "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cru",
-      "category": "Sofás",
-      "tags": ["Sofá Retrátil", "Sala"],
-      "normalPrice": 3749.99,
-      "salePrice": 2456.96,
-      "discountPercentage": 0.34,
-      "new": true,
+      "sku": "1011823",
+      "title": "Rack Vivare Preto e Freijó 180 cm",
+      "category": "Racks",
+      "tags": ["Rack", "Preto", "Freijó", "Sala"],
+      "normalPrice": 1014.99,
+      "salePrice": 702.89,
+      "discountPercentage": 0.31,
+      "new": false,
+      "slug": "rack-vivare-preto-e-freijo-180-cm",
       "description": {
-        "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
-        "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+        "short": "A organização ideal começa com o Rack Vivare e sua estrutura perfeita para facilitar o dia a dia. Além de apoiar a televisão no tampo espaçoso, ele também é o cantinho certo para acomodar os eletrônicos e enfeites importantes para o visual do ambiente.",
+        "long": "O Rack Vivare Preto e Freijó 180 cm é uma grande adição para a decoração do cômodo, graças à sua cor clássica que traz charme e versatilidade. Com bons compartimentos internos, pode ser usado sozinho ou em conjunto com um painel para ampliar sua funcionalidade."
       },
       "colors": [
         {
-          "name": "Cru",
-          "hex": "#F5F5DC"
+          "name": "Preto",
+          "hex": "#000000"
+        },
+        {
+          "name": "Freijó",
+          "hex": "#D3B88C"
         }
       ],
-      "sizes": ["EG"],
-      "rating": 4.9,
+      "sizes": ["G"],
+      "rating": 4.8,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9972-9893401-1.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4214-5391811-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-4215-5391811-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cru-5088-5391811-5.jpg"
+          "https://static.mobly.com.br/p/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9973-9893401-2.jpg",
+          "https://static.mobly.com.br/p/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9974-9893401-3.jpg",
+          "https://static.mobly.com.br/p/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9975-9893401-4.jpg",
+          "https://static.mobly.com.br/p/Giga-MC3B3veis-Rack-Vivare-Preto-e-FreijC3B3-180-cm-9976-9893401-5.jpg"
         ]
       }
     },
     {
       "id": 7,
-      "sku": "785346",
-      "title": "Sofá 3 Lugares Belgrado com Chaise Direito Linho Cinza 230 cm",
-      "category": "Sofás",
-      "tags": ["Sofá Retrátil", "Sala"],
-      "normalPrice": 4049.99,
-      "salePrice": 2807.96,
-      "discountPercentage": 0.3,
+      "sku": "939470",
+      "title": "Rack para TV até 65 Polegadas com Pés Preto Turim Madesa",
+      "category": "Racks",
+      "tags": ["Rack", "Retrô", "Pés de Madeira", "Sala"],
+      "normalPrice": 439.98,
+      "salePrice": 251.09,
+      "discountPercentage": 0.63,
       "new": false,
+      "slug": "rack-para-tv-ate-65-polegadas-com-pes-preto-turim-madesa",
       "description": {
-        "short": "Recepcionar com aconchego e bom gosto",
-        "long": "Recepcionar com aconchego e bom gosto será uma tarefa fácil com a presença do Sofá Belgrado aí na sua casa! Estruturado em madeira eucalipto de reflorestamento, ele possui percintas elásticas e molas na composição, o que garante uma peça mais firme e agradável de usar. Já por fora, o móvel é revestido em linho, material que agrega valor estético à sua decoração. Ah, não podemos deixar de comentar sobre a chaise, essa parte do sofá que tem a profundidade maior e é perfeita para os momentos de esticar as pernas e relaxar. Só benefícios para o seu doce lar, né? ;)"
+        "short": "O Rack para TV Turim da Madesa é ideal para quem busca um ambiente moderno e prático para a sala de estar ou para o quarto.",
+        "long": "O Rack para TV Turim da Madesa é ideal para quem busca um ambiente moderno e prático para a sala de estar ou para o quarto. Ideal para TV da até de 65 polegadas, este rack é perfeito para organizar seus aparelhos eletrônicos e itens decorativos com estilo e praticidade, pois conta com quatro nichos de diferentes tamanhos. Os pés em PVC garantem estabilidade e durabilidade, e a abertura para passagem de fios mantém o ambiente organizado. O acabamento preto é feito em Pintura Poliéster ecológica com 7 camadas, detalhe que agrega durabilidade e qualidade ao produto."
       },
       "colors": [
         {
-          "name": "Cinza",
-          "hex": "#808080"
+          "name": "Branco",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Preto",
+          "hex": "#000000"
         }
       ],
       "sizes": ["G"],
-      "rating": 5,
+      "rating": 4.5,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-1.jpg",
+        "mainImage": "https://madesacms.vtexassets.com/arquivos/ids/280284-650-650",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7065-758318-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-7071-758318-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-Belgrado-com-Chaise-Direito-Linho-Cinza-230-cm-0955-758318-5.jpg"
+          "https://madesacms.vtexassets.com/arquivos/ids/280280-650-650",
+          "https://madesacms.vtexassets.com/arquivos/ids/280282-650-650",
+          "https://madesacms.vtexassets.com/arquivos/ids/280239-650-650",
+          "https://madesacms.vtexassets.com/arquivos/ids/280281-650-650"
         ]
       }
     },
     {
       "id": 8,
-      "sku": "623883",
-      "title": "Sofá Retrátil e Reclinável 3 Lugares Blenda II Suede Grafite",
-      "category": "Sofás",
-      "tags": ["Sofá Retrátil", "Sala"],
-      "normalPrice": 2092.99,
-      "salePrice": 1421.96,
-      "discountPercentage": 0.32,
+      "sku": "739703",
+      "title": "Rack Ciro Branco 125 cm",
+      "category": "Racks",
+      "tags": ["Sala de Estar", "Móveis"],
+      "normalPrice": 494.99,
+      "salePrice": 328.39,
+      "discountPercentage": 0.33,
       "new": false,
+      "slug": "rack-ciro-branco-125-cm",
       "description": {
-        "short": "Para promover aconchego e bem-estar aos seus cantinhos preferidos",
-        "long": "Para promover aconchego e bem-estar aos seus cantinhos preferidos, conte com as almofadas que abraçam o corpo e a maciez do suede que só o Sofá Blenda pode oferecer. Graças ao design retilíneo e cor atemporal, ele é perfeito para trazer o charme que falta ao seu lar-style enquanto acomoda familiares e amigos para aquela conversa gostosa em um final de tarde ou sessão de filmes no fim de semana. Para melhorar, ele ainda tem assento retrátil, que ajuda a proporcionar um relaxamento mais pleno, e encosto reclinável que deixa aquele cochilo depois do almoço bem mais confortável."
+        "short": "Rack Ciro Branco 125 cm",
+        "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
       },
       "colors": [
         {
-          "name": "Cinza",
-          "hex": "#808080"
+          "name": "Branco",
+          "hex": "#FFFFFF"
         }
       ],
-      "sizes": ["M"],
-      "rating": 3.9,
+      "sizes": [
+        {
+          "height": "40 cm",
+          "width": "125 cm",
+          "depth": "32 cm"
+        }
+      ],
+      "rating": 4.9,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2794-966646-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Estilare-Rack-Ciro-Branco-125-cm-4975-201767-5.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2795-966646-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2796-966646-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2797-966646-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-RetrC3A1til-e-ReclinC3A1vel-3-Lugares-Blenda-II-Suede-Grafite-2798-966646-5.jpg"
+          "https://static.mobly.com.br/p/Estilare-Rack-Ciro-Branco-125-cm-4976-201767-2.jpg",
+          "https://static.mobly.com.br/p/Estilare-Rack-Ciro-Branco-125-cm-4977-201767-3.jpg",
+          "https://static.mobly.com.br/p/Estilare-Rack-Ciro-Branco-125-cm-4978-201767-4.jpg",
+          "https://static.mobly.com.br/p/Estilare-Rack-Ciro-Branco-125-cm-4979-201767-1.jpg"
         ]
       }
     },
     {
       "id": 9,
-      "sku": "813087",
-      "title": "Sofá 3 Lugares Retrátil Berna Linho Grafite 180 cm",
-      "category": "Sofás",
-      "tags": ["Sofá Retrátil", "Sala"],
-      "normalPrice": 1749.99,
-      "salePrice": 1295.96,
-      "discountPercentage": 0.25,
+      "sku": "1051175",
+      "title": "Rack 2 Portas Ditália R-606 Branco",
+      "category": "Racks",
+      "tags": ["Sala de Estar", "Móveis"],
+      "normalPrice": 313.41,
+      "salePrice": 313.41,
+      "discountPercentage": 0.04,
       "new": false,
+      "slug": "rack-2-portas-ditalia-r-606-branco",
       "description": {
-        "short": "Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)",
-        "long": "Momentos mais aconchegantes e uma sala de estar completa te esperam com a presença do Sofá Berna! Estruturado em madeira eucalipto, que é um ótimo reforço para o uso do dia a dia, a peça possui percintas elásticas na composição, encosto fixo em fibra siliconada e assento retrátil em espuma D26. Já por fora, o móvel ainda é revestido em linho com uma coloração que agrega beleza e bom gosto à decoração do seu espaço. Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)"
+        "short": "Rack 2 Portas Ditália R-606 Branco",
+        "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas."
       },
       "colors": [
         {
-          "name": "Grafite",
-          "hex": "#4F4F4F"
+          "name": "Branco",
+          "hex": "#FFFFFF"
         }
       ],
-      "sizes": ["M", "G"],
-      "rating": 4.5,
+      "sizes": [
+        {
+          "height": "47 cm",
+          "width": "150 cm",
+          "depth": "44 cm"
+        }
+      ],
+      "rating": 0.0,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5701-6463801-2.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-Berna-Linho-Grafite-180-cm-5086-465248-5.jpg"
+          "https://static.mobly.com.br/p/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5702-6463801-3.jpg",
+          "https://static.mobly.com.br/p/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5703-6463801-4.jpg",
+          "https://static.mobly.com.br/p/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5704-6463801-5.jpg",
+          "https://static.mobly.com.br/p/DitC3A1lia-Rack-2-Portas-DitC3A1lia-R-606-Branco-5705-6463801-1.jpg"
         ]
       }
     },
     {
       "id": 10,
-      "sku": "1147877",
-      "title": "Sofá 3 Lugares Retrátil e Reclinável Lupin Linho Cinza",
-      "category": "Sofás",
-      "tags": ["Sofá Retrátil", "Sala"],
-      "normalPrice": 3749.99,
-      "salePrice": 2447.96,
-      "discountPercentage": 0.34,
-      "new": true,
+      "sku": "1185189",
+      "title": "Rack para TV até 60 Polegadas Theo Cinamomo e Off White 133 cm",
+      "category": "Racks",
+      "tags": ["Rack", "Theo", "Cinamomo", "Off White", "Sala"],
+      "normalPrice": 629.99,
+      "salePrice": 373.37,
+      "discountPercentage": 0.41,
+      "new": false,
+      "slug": "rack-para-tv-ate-60-polegadas-theo-cinamomo-e-off-white-133-cm",
       "description": {
-        "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
-        "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
+        "short": "O Rack Theo é ideal para organizar sua sala de estar com estilo e funcionalidade. Com capacidade para TVs de até 60 polegadas, possui um tampo espaçoso para eletrônicos e compartimentos para armazenar objetos decorativos.",
+        "long": "Além de apoiar a televisão, sua estrutura em Cinamomo e Off White oferece um design clássico e versátil. É possível utilizá-lo sozinho ou combinado com um painel para otimizar o espaço. Um móvel essencial para criar um ambiente acolhedor e elegante."
       },
       "colors": [
         {
-          "name": "Cinza",
-          "hex": "#808080"
+          "name": "Cinamomo",
+          "hex": "#8B4513"
+        },
+        {
+          "name": "Off White",
+          "hex": "#F5F5F5"
         }
       ],
-      "sizes": ["EG"],
-      "rating": 4.5,
+      "sizes": ["G"],
+      "rating": 5.0,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6065-9579121-1.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4193-7391811-2.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-4194-7391811-3.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-4.jpg",
-          "https://static.mobly.com.br/p/Mobly-SofC3A1-3-Lugares-RetrC3A1til-e-ReclinC3A1vel-Lupin-Linho-Cinza-5257-7391811-5.jpg"
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6066-9579121-2.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6067-9579121-3.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6068-9579121-4.jpg",
+          "https://static.mobly.com.br/p/Modern-Rack-para-TV-atC3A9-60-Polegadas-Theo-Cinamomo-e-Off-White-133-cm-6069-9579121-5.jpg"
         ]
       }
     },
+
     {
       "id": 11,
       "sku": "531871",
@@ -330,6 +368,7 @@
       "salePrice": 1844.98,
       "discountPercentage": 0.42,
       "new": true,
+      "slug": "sofa-cama-2-lugares-casal-genova-azul",
       "description": {
         "short": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente?",
         "long": "Alguma dúvida de que um móvel como o Sofá-Cama Génova é capaz de dar um novo visual para o seu ambiente? Seja na sala de estar, no escritório ou no quarto, ele se adapta muito bem às suas necessidades e ainda dá um toque charmoso para o ambiente. A estrutura aconchegante combinada com os pés palito é ótima para você se sentar, assistir à televisão, ler um livro ou espairecer no dia a dia. Mas se precisar tirar um cochilo ou se for receber visitas em casa, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Show, né? Ah, ele ainda tem essa linda cor azul para ser o toque final da decoração."
@@ -343,9 +382,9 @@
       "sizes": ["M", "G"],
       "rating": 4.9,
       "images": {
-        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
+        "mainImage": "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
         "gallery": [
-          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-2.jpg",
+          "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-1.jpg",
           "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-3.jpg",
           "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-4.jpg",
           "https://static.mobly.com.br/p/Keva-SofC3A1-Cama-2-Lugares-Casal-GC3A9nova-Azul-3355-916355-5.jpg"
@@ -362,6 +401,7 @@
       "salePrice": 1172.66,
       "discountPercentage": 0.31,
       "new": true,
+      "slug": "sofa-cama-3-lugares-casal-premium-suede-cinza",
       "description": {
         "short": "O Sofá-Cama Premium vai renovar os seus dias de descanso",
         "long": "Dono de um visual que promete levar sofisticação e aconchego para a sua casa, o Sofá-Cama Premium vai renovar os seus dias de descanso, além de ser uma peça digna de elogios em qualquer decoração. Por dentro, ele tem madeira de reflorestamento na composição, uma ótima característica para o uso diário. Já por fora, o suede faz com que todo mundo tenha vontade de ficar nele sem hora para sair, assim como aprimora os seus momentos de lazer em frente à televisão. Ah, para fechar com chave de ouro, ele se transforma rapidamente de sofá para cama para se adaptar à sua rotina e necessidades. Muitos benefícios para um lar que merece ser igualmente incrível ;)"
@@ -393,6 +433,7 @@
       "salePrice": 1619.98,
       "discountPercentage": 0.48,
       "new": true,
+      "slug": "sofa-cama-3-lugares-casal-corsega-cinza-escuro",
       "description": {
         "short": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente",
         "long": "Um simples móvel como o Sofá-Cama Córsega tem a capacidade de repaginar o seu ambiente, independente de onde escolher colocá-lo. Combinando uma estrutura elegante com pés palito, ele serve tanto para aqueles momentos de lazer em frente à televisão ou lendo um livro, como também para acomodar as suas visitas que passarão à noite na sua casa. Para isso, basta abrir os zíperes que guardam os pés para transformá-lo em uma cama. Demais, né? Ah, a cor cinza e os detalhes do revestimento só acrescentam mais charme ao seu lar-style."
@@ -425,6 +466,7 @@
       "salePrice": 1781.98,
       "discountPercentage": 0.57,
       "new": true,
+      "slug": "sofa-cama-3-lugares-casal-venice-amarelo",
       "description": {
         "short": "O Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos!",
         "long": "Forma prática de aumentar a receptividade do lar, o Sofá-Cama Venice é também um aliado e tanto para a decoração dos cômodos! Bem-vindo desde a sala de estar até o escritório, ele tem um design de linhas simples e pés levemente angulados, sem contar na cor marcante que é perfeita para compor o espaço e fazer dele a estrela do ambiente - ah, o acabamento costurado do assento e encosto é outro destaque elegante que vale à pena citar. Para trazer conforto à rotina ou receber os amigos no final de semana, ele acompanha aquela sessão de filme ou bate-papo quando na posição original e, com pequenas mudanças na estrutra, vira um leito extra para os convidados que ficarem a mais. Toda essa usabilidade vai fazer da sua casa um porto seguro onde você pode relaxar e recarregar as energias para o dia seguinte - características que todo mundo quer, né?"
@@ -456,6 +498,7 @@
       "salePrice": 2800.74,
       "discountPercentage": 0.36,
       "new": true,
+      "slug": "sofa-retratil-sem-caixa-3-lugares-solomons-linho-bege",
       "description": {
         "short": "Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável.",
         "long": "Aconchegante e receptivo, o Sofá Retrátil sem Caixa Solomons tem tudo para deixar sua casa mais confortável. Estruturado em materiais resistentes, ele tem assento e encosto com enchimento em espuma e almofadas soltas em plumante de silicone, conferindo muito bem-estar e aconchego a quem está usando. Além de ser acolhedor e se transformar também em sofá-cama, o móvel é ideal para ambientes menores, pois é do tipo sem caixa, que otimiza o espaço disponível no cômodo e libera mais área de circulação. Tudo isso é arrematado com um design clean e elegante que destaca a cor atemporal e com certeza vai deixar seu cantinho impecável, digno de muitos elogios."
@@ -488,6 +531,7 @@
       "salePrice": 2456.96,
       "discountPercentage": 0.34,
       "new": true,
+      "slug": "sofa-3-lugares-retratil-e-reclinavel-lupin-linho-cru",
       "description": {
         "short": "Sofá Lupin é a melhor combinação entre comodidade e beleza.",
         "long": "Com inúmeras vantagens estruturais e um design de encher os olhos, o Sofá Lupin é a melhor combinação entre comodidade e beleza. O primeiro destaque vai para os rodízios, que deixam a peça facilmente adaptável ao espaço e tornam a reorganização da sala uma tarefa simples. Já a combinação da espuma com ótima densidade + assento retrátil e encosto reclinável oferecem o equilíbrio perfeito para aqueles momentos em que você precisa de um descanso mais completo ou para quando vai receber visitas. Dono de um visual elegante que se integra com harmonia à decoração do cômodo, ele ainda é reforçado pela estrutura em madeira maciça, que agrega boa durabilidade e segurança perfeita à rotina - desse jeito, você sempre pode contar com um cantinho aconchegante e bem mobiliado para passar momentos relaxantes."
@@ -520,6 +564,7 @@
       "salePrice": 2807.96,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "sofa-3-lugares-belgrado-com-chaise-direito-linho-cinza",
       "description": {
         "short": "Recepcionar com aconchego e bom gosto",
         "long": "Recepcionar com aconchego e bom gosto será uma tarefa fácil com a presença do Sofá Belgrado aí na sua casa! Estruturado em madeira eucalipto de reflorestamento, ele possui percintas elásticas e molas na composição, o que garante uma peça mais firme e agradável de usar. Já por fora, o móvel é revestido em linho, material que agrega valor estético à sua decoração. Ah, não podemos deixar de comentar sobre a chaise, essa parte do sofá que tem a profundidade maior e é perfeita para os momentos de esticar as pernas e relaxar. Só benefícios para o seu doce lar, né? ;)"
@@ -551,6 +596,7 @@
       "salePrice": 1421.96,
       "discountPercentage": 0.32,
       "new": true,
+      "slug": "sofa-retratil-e-reclinavel-3-lugares-blenda-ii-suede-grafite",
       "description": {
         "short": "Para promover aconchego e bem-estar aos seus cantinhos preferidos",
         "long": "Para promover aconchego e bem-estar aos seus cantinhos preferidos, conte com as almofadas que abraçam o corpo e a maciez do suede que só o Sofá Blenda pode oferecer. Graças ao design retilíneo e cor atemporal, ele é perfeito para trazer o charme que falta ao seu lar-style enquanto acomoda familiares e amigos para aquela conversa gostosa em um final de tarde ou sessão de filmes no fim de semana. Para melhorar, ele ainda tem assento retrátil, que ajuda a proporcionar um relaxamento mais pleno, e encosto reclinável que deixa aquele cochilo depois do almoço bem mais confortável."
@@ -582,6 +628,7 @@
       "salePrice": 1295.96,
       "discountPercentage": 0.25,
       "new": true,
+      "slug": "sofa-3-lugares-retratil-berna-linho-grafite",
       "description": {
         "short": "Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)",
         "long": "Momentos mais aconchegantes e uma sala de estar completa te esperam com a presença do Sofá Berna! Estruturado em madeira eucalipto, que é um ótimo reforço para o uso do dia a dia, a peça possui percintas elásticas na composição, encosto fixo em fibra siliconada e assento retrátil em espuma D26. Já por fora, o móvel ainda é revestido em linho com uma coloração que agrega beleza e bom gosto à decoração do seu espaço. Seja para receber visitas ou esticar as pernas durante os períodos de descanso, ele será indispensável na sua rotina :)"
@@ -604,6 +651,7 @@
         ]
       }
     },
+
     {
       "id": 21,
       "sku": "1089207",
@@ -614,6 +662,7 @@
       "salePrice": 1795.46,
       "discountPercentage": 0.42,
       "new": true,
+      "slug": "mesa-de-jantar-retangular-macauba-madeira-macica-amendoa",
       "description": {
         "short": "Inspirada na beleza e imponência da frutífera palmeira, a Mesa de Jantar Macaúba será a protagonista em sua sala de jantar.",
         "long": "Inspirada na beleza e imponência da frutífera palmeira, a Mesa de Jantar Macaúba será a protagonista em sua sala de jantar. Com aspecto natural e robusto, a peça valoriza a madeira maciça da estrutura, que não só oferece ótima estabilidade como garante mais durabilidade - o acabamento em verniz ainda protege contra umidade e facilita a limpeza. Feita em linhas retas e madeira grossas, a mesa acomoda até 6 lugares e traz em seu design aquele ar aconchegante de casa de campo ou praia, assim contribui para que seu cantinho na cidade fique mais acolhedor, receptivo e charmoso. Daí é só adquirir boas cadeiras ou, se preferir, comprar também o banco da mesma linha :)"
@@ -646,6 +695,7 @@
       "salePrice": 593.96,
       "discountPercentage": 0.4,
       "new": true,
+      "slug": "mesa-de-jantar-redonda-com-tampo-de-vidro-isabela-ipe-e-off-white",
       "description": {
         "short": "A Mesa Isabela é um item indispensável para o funcionamento da sua rotina, seja para as refeições diárias ou para os momentos de confraternização entre familiares e amigos.",
         "long": "A Mesa Isabela é um item indispensável para o funcionamento da sua rotina, seja para as refeições diárias ou para os momentos de confraternização entre familiares e amigos. Com tampo de vidro + estrutura elegante, ela é simples de harmonizar com os outros móveis essenciais ao ambiente e oferece um ótimo reforço quando precisar dispor pratos, talheres e copos para acolher a todos com bastante receptividade. Ah, a peça não acompanha cadeiras e você deve adquiri-las separadamente para deixar o uso completo."
@@ -676,6 +726,7 @@
       "salePrice": 890.96,
       "discountPercentage": 0.31,
       "new": true,
+      "slug": "mesa-de-jantar-retangular-com-tampo-de-vidro-agata-off-white-e-nature",
       "description": {
         "short": "Sua sala de jantar ou cozinha precisa ser bem equipada para deixar os momentos de confraternização ainda mais especiais, seja acompanhando o dia a dia ou recebendo os amigos em diferentes ocasiões.",
         "long": "Sua sala de jantar ou cozinha precisa ser bem equipada para deixar os momentos de confraternização ainda mais especiais, seja acompanhando o dia a dia ou recebendo os amigos em diferentes ocasiões. Para isso, o modelo Agata é a opção ideal! Graças ao seu tampo amplo, você vai conseguir acomodar bem todos os elementos necessários às refeições, como pratos, copos, talheres e bandejas. E, já que um lar-style ideal também é composto por uma bela decoração, o design da peça ajuda a tornar o cômodo mais nobre. A base amadeirada, somada ao tampo de cor sóbria, com bordas arredondadas e acabamento em vidro, confere um toque elegante ao seu espaço. Agora é só adquirir as cadeiras dos sonhos e desfrutar de um lar perfeito ;)"
@@ -708,6 +759,7 @@
       "salePrice": 435.59,
       "discountPercentage": 0.25,
       "new": true,
+      "slug": "mesa-de-jantar-quadrada-industrial-stanford-amendoa-e-preta",
       "description": {
         "short": "Não tem como negar: a mesa de jantar é um dos poucos móveis que efetivamente reúne a família, afinal, quem não gosta de saborear um bom prato ao lado das pessoas que mais ama?",
         "long": "Não tem como negar: a mesa de jantar é um dos poucos móveis que efetivamente reúne a família, afinal, quem não gosta de saborear um bom prato ao lado das pessoas que mais ama? E para garantir que o seu ambiente fique impecável, conte com a Mesa Stanford. O modelo busca inspiração no estilo industrial ao juntar base preta em aço carbono e tampo marrom, mas, ao mesmo tempo, abre um leque de possibilidades na hora de colocar a criatividade em prática e fazer as melhores harmonizações para a sua sala de jantar ou cozinha. Mas não pense que os benefícios acabaram, viu? As laterais vazadas e a retilineidade em evidência conferem sofisticação ao cômodo e você ainda pode combiná-la com as outras peças da Linha Stanford para conquistar um visual completo. Ah, a peça não acompanha cadeiras e você deve adquiri-las separadamente para deixar o uso completo."
@@ -740,6 +792,7 @@
       "salePrice": 1349.96,
       "discountPercentage": 0.39,
       "new": false,
+      "slug": "mesa-de-jantar-redonda-extensivel-com-tampo-mdf-fresta-avela",
       "description": {
         "short": "Nada como conseguir tirar o máximo de potencial da nossa casa, não é? Com a Mesa Extensível Fresta, você não só leva um móvel de estrutura em madeira maciça, que é resistente e durável, como também consegue otimizar sua sala de jantar.",
         "long": "Nada como conseguir tirar o máximo de potencial da nossa casa, não é? Com a Mesa Extensível Fresta, você não só leva um móvel de estrutura em madeira maciça, que é resistente e durável, como também consegue otimizar sua sala de jantar. Quando fechada, ela comporta até 4 pessoas, sendo perfeita para o dia a dia - já quando chegar uma visita você pode abrir e ganhar mais 25cm de tampo de maneira rápida e descomplicada, assim todo mundo fica confortável. Ah, a tonalidade da madeira com o acabamento envernizado leva uma beleza natural para a decoração e ainda facilita a limpeza diária. Daí é só adquirir boas cadeiras e completar o cômodo :)"
@@ -772,6 +825,7 @@
       "salePrice": 404.96,
       "discountPercentage": 0.48,
       "new": true,
+      "slug": "mesa-de-escritorio-anah-freijo-e-preta",
       "description": {
         "short": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos.",
         "long": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Com amplo espaço de tampo, ela te permite acomodar os itens essenciais à sua rotina, como notebook, caderno, materiais de papelaria e até um porta-trecos para deixar objetos menores sempre à mão. Versátil, a peça carrega um visual industrial que deixa em destaque a estrutura em cor preta e o tampo com acabamento amadeirado, formando o combo ideal para ser inserido em qualquer decoração, pois combina com tudo e ainda traz um charme extra ao espaço. Agora, além de funcional, seu home office vai ficar cheio de estilo e bom gosto!"
@@ -802,6 +856,7 @@
       "salePrice": 622.74,
       "discountPercentage": 0.37,
       "new": false,
+      "slug": "mesa-de-escritorio-em-l-anah-freijo-e-preta",
       "description": {
         "short": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos.",
         "long": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Com amplo espaço de tampo, ela te permite acomodar os itens essenciais à sua rotina, como notebook, caderno, materiais de papelaria e até um porta-trecos para deixar objetos menores sempre à mão. Versátil, a peça carrega um visual industrial que deixa em destaque a estrutura em cor preta e o tampo com acabamento amadeirado, formando o combo ideal para ser inserido em qualquer decoração, pois combina com tudo e ainda traz um charme extra ao espaço. Agora, além de funcional, seu home office vai ficar cheio de estilo e bom gosto!"
@@ -833,6 +888,7 @@
       "salePrice": 254.64,
       "discountPercentage": 0.42,
       "new": true,
+      "slug": "mesa-de-escritorio-studio-nogal",
       "description": {
         "short": "Com a Mesa Studio os seus objetos pertinentes à rotina ficam dispostos no tampo.",
         "long": "Você não precisa encher o seu cômodo de coisas para conquistar um cantinho de estudos ou home office completo. Pelo contrário, basta apostar nos móveis certos para que o seu desempenho ganhe uma grande aliada: a organização! Com a Mesa Studio os seus objetos pertinentes à rotina ficam dispostos no tampo, além daqueles itens decorativos que ajudam a deixar o cômodo mais receptivo. Já o visual de cores tradicionais e design discreto ajuda a ambientar o espaço de maneira profissional e agradável para o dia a dia. Agora é só encontrar uma cadeira para dar aquele match perfeito com a sua mesa!"
@@ -865,6 +921,7 @@
       "salePrice": 612.71,
       "discountPercentage": 0.38,
       "new": true,
+      "slug": "mesa-de-escritorio-em-l-nero-branco",
       "description": {
         "short": "Confeccionada com materiais resistentes e de qualidade",
         "long": "Você quer deixar seu escritório muito mais usual e completo? Então que tal apostar na Mesa de Escritório em L Nero? Confeccionada com materiais resistentes e de qualidade, ela é ideal para deixar o espaço muito mais produtivo. Aproveite!"
@@ -897,6 +954,7 @@
       "salePrice": 359.96,
       "discountPercentage": 0.5,
       "new": false,
+      "slug": "mesa-de-escritorio-em-l-studio-preta",
       "description": {
         "short": "Com a Mesa Studio, você leva uma peça de tendência industrial para seu ambiente",
         "long": "Ter um espaço de trabalho bonito e bem decorado também faz diferença no dia a dia, não é mesmo? Com a Mesa Studio, você leva uma peça de tendência industrial para seu ambiente, que não só dá modernidade à decoração como também é fácil de combinar com cadeira, estante e outros elementos de escritório. Já o formato em L é perfeito para você que usa muitos papéis ou acessórios no dia a dia, pois deixa tudo organizado e à mão, prontinho para o uso. Daí é só aproveitar tudo isso para produzir mais e melhor ;)"
@@ -919,16 +977,18 @@
         ]
       }
     },
+
     {
       "id": 31,
       "sku": "1016962",
-      "title": "Guarda-Roupa Casal com Espelho Valência 2 PT 6 GV Branco",
+      "title": "Guarda Roupa Casal com Espelho Valência 2 PT 6 GV Branco",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 2699.99,
       "salePrice": 1738.74,
       "discountPercentage": 0.35,
       "new": true,
+      "slug": "guarda-roupa-casal-com-espelho-valencia-2-pt-6-gv-branco",
       "description": {
         "short": "Bonito o Guarda-Roupa Valência, né? Além de contar com esse visual moderno e imponente que deixa em destaque os espelhos formando uma linha horizontal, ele é amplo e perfeito para ser dividido por um casal.",
         "long": "Com 2 portas e 6 gavetas, não vai faltar espaço para vestuário, acessórios, cosméticos e até roupas de cama - tudo encontra um cantinho ideal nas divisões internas. Feito com materiais de qualidade, o móvel tem acabamento em pintura UV, tecnologia que garante mais proteção e durabilidade."
@@ -954,13 +1014,14 @@
     {
       "id": 32,
       "sku": "1016954",
-      "title": "Guarda-Roupa Casal com Espelho Paris 3 PT 2 GV",
+      "title": "Guarda Roupa Casal com Espelho Paris 3 PT 2 GV",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 1329.99,
       "salePrice": 917.94,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "guarda-roupa-casal-com-espelho-paris-3-pt-2-gv",
       "description": {
         "short": "Para deixar o dormitório organizado e com o visual em dia, aposte no Guarda-Roupa Paris. Com 3 portas e 2 gavetas, ele tem compartimentos para as peças longas, que vão aos cabideiros, para as que podem ser dobradas e até para perfumaria ou roupas de cama, graças às prateleiras.",
         "long": "Por fora, o acabamento amadeirado da pintura UV não só garante um móvel bonito, mas também aumenta a durabilidade - já o espelho deixa o cômodo elegante e amplo visualmente. Ah, por falar em amplitude, as portas que deslizam em trilhos de alumínio te ajudam a aproveitar melhor a área disponível, pois não ocupam espaço extra na hora de abrir. Assim, manter o quarto organizado fica fácil!"
@@ -990,13 +1051,14 @@
     {
       "id": 33,
       "sku": "1065514",
-      "title": "Guarda-Roupa Solteiro New Conect 4 PT 3 GV",
+      "title": "Guarda Roupa Solteiro New Conect 4 PT 3 GV",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 1489.99,
-      "salePrice": 0,
+      "salePrice": 1489.99,
       "discountPercentage": 0,
       "new": true,
+      "slug": "guarda-roupa-solteiro-new-conect-4-pt-3-gv",
       "description": {
         "short": "Funcional e completo para compor o dormitório de casal.",
         "long": "o Guarda-Roupa New Conect tem espaço ideal para acomodar todos os pertences de forma organizada, seja nas 3 gavetas ou nas 4 portas - ainda tem nicho externo para pequenos objetos. Por fora, ele traz visual perfeito para quem busca um móvel neutro que casa com as outras mobílias do cômodo sem roubar o protagonismo."
@@ -1026,13 +1088,14 @@
     {
       "id": 34,
       "sku": "936144",
-      "title": "Guarda-Roupa Casal com 2 Espelhos Belluno 2 PT 3 GV",
+      "title": "Guarda Roupa Casal com 2 Espelhos Belluno 2 PT 3 GV",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 2828.99,
       "salePrice": 2240.96,
       "discountPercentage": 0.2,
       "new": false,
+      "slug": "guarda-roupa-casal-com-2-espelhos-belluno-2-pt-3-gv",
       "description": {
         "short": "Manter tudo organizado é essencial para um dia a dia mais prático, por isso o Guarda-Roupa Belluno vai ser o toque final perfeito para o seu quarto.",
         "long": "Com compartimentos internos que recebem muito bem as suas roupas, objetos pessoais, sapatos e acessórios, ele deixa tudo em ordem e fácil fácil de alcançar na hora da troca de roupa, não te deixando perder de vista o que é importante. Já por fora ele traz um charme clássico com cor sóbria que é perfeita para harmonizar com o restante do mobiliário, assim você não precisa se preocupar com mais nada além de curtir o seu cantinho relax e repôr as energias para o próximo dia."
@@ -1062,13 +1125,14 @@
     {
       "id": 35,
       "sku": "1136861",
-      "title": "Guarda-Roupa Closet Studio",
+      "title": "Guarda Roupa Closet Studio",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 579.99,
-      "salePrice": 0,
+      "salePrice": 579.99,
       "discountPercentage": 0,
       "new": false,
+      "slug": "guarda-roupa-closet-studio",
       "description": {
         "short": "O Guarda-Roupa Studio é uma solução versátil e perfeita para transformar o seu quarto em um espaço bem organizado e cheio de charme: do tipo closet, ele pode ser usado sozinho ou combinado com outros módulos, assim você cria um móvel personalizado e que atende às suas necessidades específicas.",
         "long": "Além da ótima funcionalidade, ele tem design moderno graças à combinação de materiais e estilo industrial, sem falar na cor, que acrescenta um toque de bom gosto à decoração do ambiente - todas essas características tornam ele uma adição indispensável para deixar a rotina mais agradável e verdadeiramente completa. Aí é só escolher o cantinho onde ele vai brilhar e desfrutar de um lar-style impecável."
@@ -1094,13 +1158,14 @@
     {
       "id": 36,
       "sku": "952842",
-      "title": "Guarda-Roupa Casal Malibu 6 PT 2 GV",
+      "title": "Guarda Roupa Casal Malibu 6 PT 2 GV",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 579.99,
-      "salePrice": 0,
+      "salePrice": 579.99,
       "discountPercentage": 0,
       "new": true,
+      "slug": "guarda-roupa-casal-malibu-6-pt-2-gv",
       "description": {
         "short": "Item necessário para o bom funcionamento do quarto, o Guarda-Roupa Malibu é o móvel ideal para que a arrumação do ambiente fique em dia.",
         "long": "Equipado com portas e gavetas, ele tem compartimentos para vestuário, calçados, acessórios, cosméticos e até caixas organizadoras - tudo para garantir que peças fundamentais à sua rotina estejam sempre à mão. De quebra, o visual robusto com coloração tradicional a esse tipo de mobiliário oferece sofisticação e bom gosto para a decoração do seu espaço. Só benefícios para um lar incrível como o seu."
@@ -1126,13 +1191,14 @@
     {
       "id": 37,
       "sku": "952842",
-      "title": "Guarda-Roupa Solteiro com Espelho Reflecta Elite II 2 PT 3",
+      "title": "Guarda Roupa Solteiro com Espelho Reflecta Elite II 2 PT 3",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 3574.99,
       "salePrice": 2498.39,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "guarda-roupa-solteiro-com-espelho-reflecta-elite-ii-2-pt-3",
       "description": {
         "short": "Para dar mais funcionalidade ao quarto e deixar o ambiente organizado, um bom guarda-roupa é essencial. Aposte no modelo Elite para que seu dormitório fique completo de verdade!",
         "long": "Com ótimo espaço de armazenamento proporcionado pelas duas portas e três gavetas, ele acomoda bem suas peças de vestuário, calçados, acessórios ou outros objetos pessoais e ainda garante que sua rotina fique mais prática. Já por fora, o espelho é um aliado na hora de conferir a maquiagem, o cabelo ou o visual no dia a dia. Tudo isso com um design clássico a esse tipo de móvel e uma coloração neutra que compõem muito bem qualquer estilo de decoração e te ajudam a montar o lar-style dos sonhos."
@@ -1169,6 +1235,7 @@
       "salePrice": 899.99,
       "discountPercentage": 0.4,
       "new": false,
+      "slug": "armario-de-cozinha-completa-madesa-emilly-box-com-balcao-e-aereo-vidro-rustic-preto",
       "description": {
         "short": "Para dar mais funcionalidade à cozinha e deixar o ambiente organizado, um bom armário é essencial. Aposte no modelo Madesa Emilly para que sua cozinha fique completa de verdade!",
         "long": "Com ótimo espaço de armazenamento proporcionado pelas suas portas e gavetas, ele acomoda bem seus utensílios e ainda garante que sua rotina fique mais prática. Já por fora, possui um design clássico a esse tipo de móvel e uma coloração neutra que compõem muito bem qualquer estilo de decoração e te ajudam a montar o lar-style dos sonhos."
@@ -1194,13 +1261,14 @@
     {
       "id": 39,
       "sku": "1033962",
-      "title": "Guarda-Roupa Solteiro com 1 Espelho Lugano 2",
+      "title": "Guarda Roupa Solteiro com 1 Espelho Lugano 2",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 1556.96,
-      "salePrice": 0,
-      "discountPercentage": 0,
+      "salePrice": 1089.2,
+      "discountPercentage": 0.3,
       "new": false,
+      "slug": "guarda-roupa-solteiro-com-1-espelho-lugano-2",
       "description": {
         "short": "Quando o assunto é deixar o quarto bem organizado e preparado para a rotina, aposte em um móvel amplo e munido de compartimentos que acomodam tudo o que você precisa.",
         "long": "O Guarda-Roupa Lugano tem gavetas que recebem roupas dobradas, enquanto os cabideiros deixam as peças longas e delicadas livres de amassados. Já os outros compartimentos apoiam edredons, toalhas, malas de viagem, caixas organizadoras e o que mais você precisar deixar por perto para simplificar a rotina - falando em facilitar, o espelho na porta é um detalhe curinga que não te deixa perder nenhum detalhe do seu look. Com cor sóbria e estrutura clássica, você ganha ainda um aliado para a decoração e que, graças às portas de correr, vai te  ajudar a aproveitar muito mais o espaço do dormitório."
@@ -1226,13 +1294,14 @@
     {
       "id": 40,
       "sku": "1221811",
-      "title": "Guarda-Roupa Casal com 3 Espelhos Genebra 100% MDF 3 PT 4 GV",
+      "title": "Guarda Roupa Casal com 3 Espelhos Genebra 100% MDF 3 PT 4 GV",
       "category": "Armarios",
       "tags": ["Armario", "Casa", "Quarto"],
       "normalPrice": 5479.99,
       "salePrice": 3122.96,
       "discountPercentage": 0.43,
       "new": true,
+      "slug": "guarda-roupa-casal-com-3-espelhos-genebra-100-mdf-3-pt-4-gv",
       "description": {
         "short": "Buscando por um guarda-roupa que alia funcionalidade e estilo para o seu dormitório?",
         "long": "O Guarda-Roupa Genebra é a escolha ideal! Construído em MDF resistente, corrediças telescópicas e puxadores em alumínio, este modelo ainda conta com espelho de corpo inteiro, que amplia o espaço e proporciona praticidade no dia a dia. Além da usabilidade, o móvel carrega um design elegante que destaca a cor sóbria e a caixaria robusta. Ah, as portas de correr têm sistema anti descarrilhamento para garantir a segurança na rotina."
@@ -1254,6 +1323,7 @@
         ]
       }
     },
+
     {
       "id": 41,
       "sku": "730455",
@@ -1264,6 +1334,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "cadeira-charles-eames-ii",
       "description": {
         "short": "Cadeira Charles Eames. Além do formato muito tradicional no mundo do design que proporciona mais comodidade durante as atividades",
         "long": "Funcionais e perfeitas para compor diferentes ambientes da casa, cadeiras são móveis que pedem uma estrutura aconchegante e design lindo - tudo o que você encontra na Cadeira Charles Eames. Além do formato muito tradicional no mundo do design que proporciona mais comodidade durante as atividades, a peça também tem cor fácil de harmonizar com o restante do mobiliário. Tudo isso contribui para que você possa curtir muito mais com seus convidados ou familiares e desfrutar de um lar-style cativante."
@@ -1308,6 +1379,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": false,
+      "slug": "cadeiras-mona-linho",
       "description": {
         "short": "o Conjunto de Cadeiras Mona vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em aço com pintura preta",
         "long": "De design contemporâneo que flerta com o estilo minimalista, o Conjunto de Cadeiras Mona vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em aço com pintura preta e à cor neutro do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidade ideal para receber bem. Ah, notou o detalhe em tecido sintético? Puro bom gosto para o seu cantinho"
@@ -1347,6 +1419,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "cadeiras-tiva-linho",
       "description": {
         "short": "o Conjunto Tiva não só é funcional como também leva um toque de design sofisticado ao seu cantinho.",
         "long": "Perfeito para a sala de jantar dos sonhos, o Conjunto Tiva não só é funcional como também leva um toque de design sofisticado ao seu cantinho. Enquanto a estrutura resistente, o enchimento em espuma e o revestimento em Linho conferem todo o aconchego necessário, as 2 peças têm coloração atemporal e acabamento amadeirado, formando o combo certo para deixar seu cantinho repleto de bom gosto e requinte. Já dá para se imaginar aproveitando bons pratos em ótima companhia, né?"
@@ -1386,6 +1459,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": false,
+      "slug": "cadeiras-windsor-fendi",
       "description": {
         "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
         "long": "Além de servirem para acomodar nas refeições, cadeiras também dão um toque estiloso à decoração, como o modelo Windsor. Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados, que dá um diferencial ao lar-style e ainda é simples de harmonizar com outros móveis. Ah, elas podem compor diferentes ambientes, seja a sala de jantar, de estar ou mesmo acompanhar sua penteadeira. Tudo isso para você curtir muito com seus convidados ou familiares "
@@ -1430,6 +1504,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": false,
+      "slug": "web-wood-fendi",
       "description": {
         "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
         "long": "Além de servirem para acomodar nas refeições, cadeiras também dão um toque estiloso à decoração, como o modelo Windsor. Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados, que dá um diferencial ao lar-style e ainda é simples de harmonizar com outros móveis. Ah, elas podem compor diferentes ambientes, seja a sala de jantar, de estar ou mesmo acompanhar sua penteadeira. Tudo isso para você curtir muito com seus convidados ou familiares"
@@ -1475,6 +1550,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "cadeira-masters-allegra",
       "description": {
         "short": "Com design moderno, as 4 peças têm pés em madeira, que dão firmeza ao uso, e encosto com detalhes vazados",
         "long": "Perfeito para a sala de jantar dos sonhos, o Conjunto Tiva não só é funcional como também leva um toque de design sofisticado ao seu cantinho. Enquanto a estrutura resistente, o enchimento em espuma e o revestimento em Linho conferem todo o aconchego necessário, as 2 peças têm coloração atemporal e acabamento amadeirado, formando o combo certo para deixar seu cantinho repleto de bom gosto e requinte. Já dá para se imaginar aproveitando bons pratos em ótima companhia, né?"
@@ -1514,6 +1590,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "cadeira-living-estofada-avila-l02",
       "description": {
         "short": "a Cadeira Ávila combina estilo e funcionalidade de uma maneira única. Estruturada em madeira maciça, possui detalhes curvilíneos que trazem suavidade e delicadeza a peça",
         "long": "Inspirada no elegante mobiliário parisiense do século 19 e pensada para proporcionar máximo conforto, a Cadeira Ávila combina estilo e funcionalidade de uma maneira única. Estruturada em madeira maciça, possui detalhes curvilíneos que trazem suavidade e delicadeza a peça, seu acabamento envernizado a torna um mobiliário de destaque e trás durabilidade e confiança ao seu uso. Possui assento estofado, que proporciona ao seu usuário a sensação de comodidade ideal e ainda adiciona classe a qualquer ambiente.  Seu design a torna uma peça versátil que abre portas a sua imaginação pois pode ser disposta em salas de jantar, estar, e espera, quartos, halls de entrada e cozinhas. Expresse seu bom gosto, e adquira já essa obra-prima da sofisticação!"
@@ -1553,6 +1630,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": true,
+      "slug": "cadeira-melina-l02-courissimo",
       "description": {
         "short": "Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes.",
         "long": "Caso você esteja buscando conforto, realce e praticidade, a Cadeira Estofada Melina vai superar todas as suas expectativas. Garante muita comodidade e otimiza o espaço, além de harmonizar com seu estilo decorativo facilmente, podendo ser utilizada em salas de estar, jantar e cozinha, além de dar um toque especial em sua decoração. Sua proposta de design suavizará seu ambiente sem passar despercebida oferecendo mais leveza e receptividade ao seu lar. Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes. Você merece esta incrível combinação em sua casa, adquira já a sua!"
@@ -1597,6 +1675,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": false,
+      "slug": "cadeira-estofada-charles",
       "description": {
         "short": "Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes.",
         "long": "Caso você esteja buscando conforto, realce e praticidade, a Cadeira Estofada Melina vai superar todas as suas expectativas. Garante muita comodidade e otimiza o espaço, além de harmonizar com seu estilo decorativo facilmente, podendo ser utilizada em salas de estar, jantar e cozinha, além de dar um toque especial em sua decoração. Sua proposta de design suavizará seu ambiente sem passar despercebida oferecendo mais leveza e receptividade ao seu lar. Estruturada em aço carbono, contrasta lindamente com o encosto e assento estofados que são extremamente confortáveis, resistentes e aconchegantes. Você merece esta incrível combinação em sua casa, adquira já a sua!"
@@ -1640,6 +1719,7 @@
       "salePrice": 175,
       "discountPercentage": 0.3,
       "new": false,
+      "slug": "cadeira-lia-grafite",
       "description": {
         "short": " estrutura em ferro com pintura epóxi preta e à cor grafite do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidades ideais para acolher bem cada parte específica do corpo",
         "long": "De design contemporâneo que flerta com o estilo minimalista, a Cadeira Lia vai ficar incrível no seu lar-style. Além de embelezar o ambiente, graças à estrutura em ferro com pintura epóxi preta e à cor grafite do revestimento em Linho, ela também acomoda superbem, pois conta com assento e encosto estofados em espuma de densidades ideais para acolher bem cada parte específica do corpo. Versátil, essa peça pode compor diversos ambientes, da sala de jantar até a sala de estar ou escritório - certeza que a estrutura vazada vai levar um charme extra ao seu cantinho "
@@ -1669,6 +1749,7 @@
         ]
       }
     },
+
     {
       "id": 51,
       "sku": "872147",
@@ -1679,6 +1760,7 @@
       "salePrice": 377.96,
       "discountPercentage": 0.29,
       "new": true,
+      "slug": "escrivaninha-anah-1-gv-freijo-e-preta",
       "description": {
         "short": "a Escrivaninha Anah é composta por MDF 25mm, tampo em MDF 24mm, base em MDF 25mm, 1 gaveta com corrediças metálicas, 2 pés fixos e acabamento fosco",
         "long": "a Escrivaninha Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Com amplo espaço de tampo, ela te permite acomodar os itens essenciais à sua rotina, como notebook, caderno, materiais de papelaria e até um porta-trecos, já a gaveta é essencial para manter objetos menores sempre à mão. Versátil, a peça carrega um visual industrial que deixa em destaque a estrutura em cor preta e o tampo com acabamento amadeirado, formando o combo ideal para ser inserido em qualquer decoração, pois combina com tudo e ainda traz um charme extra ao espaço. Agora, além de funcional, seu home office vai ficar cheio de estilo e bom gosto!"
@@ -1715,6 +1797,7 @@
       "salePrice": 240.24,
       "discountPercentage": 0.48,
       "new": true,
+      "slug": "escrivaninha-studio-mel-e-branca-150-cm",
       "description": {
         "short": "A Escrivaninha Studio possui estrutura em aço, tampo em MDP 30mm e acabamento fosco",
         "long": "Estruturada em aço e MDP, a belíssima Escrivaninha Studio é perfeita para compor o seu cantinho de estudos ou trabalho. Com ótimo espaço de tampo, a peça cumpre muito bem a função de acomodar notebook e outros itens essenciais à sua rotina, como luminária e porta-canetas. Somado à funcionalidade, o design clean que conta com tonalidade sóbria e atemporal dá um ar minimalista ao cômodo e torna fácil combiná-la com os outros móveis do home office. Daí, é só adquirir a cadeira perfeita e aproveitar seu espaço produtivo."
@@ -1751,6 +1834,7 @@
       "salePrice": 224.96,
       "discountPercentage": 0.43,
       "new": true,
+      "slug": "escrivaninha-mendes-2-gv-branca",
       "description": {
         "short": "Escrivaninha Mendes",
         "long": "uma boa escrivaninha é essencial para quem estuda ou trabalha em casa. Com tampo espaçoso para receber um notebook, caderno, luminária e outros materiais essenciais à rotina, o modelo Mendes também tem gavetas para aqueles objetos menores e que podem se perder caso fiquem soltos. Enquanto toda essa funcionalidade deixa o dia a dia mais prático, o design deixa mais bonito: cor clássica, estrutura simples e detalhes que fazem a decoração ficar ainda mais especial e de bom gosto, do jeitinho que você merece."
@@ -1777,12 +1861,13 @@
       "id": 54,
       "sku": "1007565",
       "title": "Escrivaninha Studio Carvalho e Preta 180 cm",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 665.99,
       "salePrice": 357.24,
       "discountPercentage": 0.46,
       "new": true,
+      "slug": "escrivaninha-studio-carvalho-e-preta-180-cm",
       "description": {
         "short": "Escrivaninha Studio Carvalho e Preta 180 cm",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
@@ -1815,12 +1900,13 @@
       "id": 55,
       "sku": "1136819",
       "title": "Escrivaninha com Estante Studio Mel e Branca 150x75 cm",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 689.99,
       "salePrice": 343.74,
       "discountPercentage": 0.5,
       "new": true,
+      "slug": "escrivaninha-com-estante-studio-mel-e-branca-150x75-cm",
       "description": {
         "short": "Escrivaninha com Estante Studio Mel e Branca 150x75 cm",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
@@ -1853,12 +1939,13 @@
       "id": 56,
       "sku": "1034291",
       "title": "Escrivaninha Old 2 GV Nature",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 759.99,
       "salePrice": 467.96,
       "discountPercentage": 0.38,
       "new": true,
+      "slug": "escrivaninha-old-2-gv-nature",
       "description": {
         "short": "Escrivaninha Old 2 GV Nature",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
@@ -1891,12 +1978,13 @@
       "id": 57,
       "sku": "1066131",
       "title": "Escrivaninha Wood 1 GV Branca e Marrom",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 659.99,
       "salePrice": 386.96,
       "discountPercentage": 0.41,
       "new": true,
+      "slug": "escrivaninha-wood-1-gv-branca-e-marrom",
       "description": {
         "short": "Escrivaninha Wood 1 GV Branca e Marrom",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
@@ -1933,12 +2021,13 @@
       "id": 58,
       "sku": "1034292",
       "title": "Escrivaninha Califórnia Nature",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 609.99,
       "salePrice": 341.96,
       "discountPercentage": 0.43,
       "new": true,
+      "slug": "escrivaninha-california-nature",
       "description": {
         "short": "Escrivaninha Califórnia Nature",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
@@ -1971,12 +2060,13 @@
       "id": 59,
       "sku": "1134543",
       "title": "Escrivaninha Prism 1 PT 1 GV Preta e Cinamomo",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 959.99,
       "salePrice": 562.37,
       "discountPercentage": 0.41,
       "new": true,
+      "slug": "escrivaninha-prism-1-pt-1-gv-preta-e-cinamomo",
       "description": {
         "short": "Escrivaninha Prism 1 PT 1 GV Preta e Cinamomo",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
@@ -2013,12 +2103,13 @@
       "id": 60,
       "sku": "198569",
       "title": "Escrivaninha Mega Office Branca e Amêndoa",
-      "category": "Escrivaninhas e Mesas para Computador",
+      "category": "Escrivaninhas",
       "tags": ["Escritório", "Móveis"],
       "normalPrice": 687.99,
       "salePrice": 442.74,
       "discountPercentage": 0.35,
       "new": true,
+      "slug": "escrivaninha-mega-office-branca-e-amendoa",
       "description": {
         "short": "Escrivaninha Mega Office Branca e Amêndoa",
         "long": "A tonalidade da cor pode variar de acordo com o lote do fabricante e/ou as configurações de seu monitor. Imagens meramente ilustrativas. Cashback: Em até 7 dias você receberá, via SMS, um bônus para ser utilizado em sua próxima compra no site da Mobly. Confira o regulamento aqui."
